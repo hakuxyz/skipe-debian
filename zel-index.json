@@ -1,0 +1,3352 @@
+{
+ "format": 2,
+ "packages": [
+  {
+   "name": "adduser",
+   "version": "3.134",
+   "description": "add and remove users and groups",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "passwd"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "adduser_3.134_all.deb",
+   "sha256": "7952686546e3ab7b774872eb290170fa4744a7a64a01dd9fcfb14f6caf24da4c",
+   "size": 172424,
+   "installed_size": 702464,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "adwaita-icon-theme",
+   "version": "43-1",
+   "description": "default icon theme of GNOME",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "adwaita-icon-theme_43-1_all.deb",
+   "sha256": "4b67610565d16b604d3efd9908e8e4b5d71873c5d0f9347433df509020f22af7",
+   "size": 5124100,
+   "installed_size": 21400576,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "at-spi2-common",
+   "version": "2.46.0-5",
+   "description": "Assistive Technology Service Provider Interface (common files)",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Accessibility",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "at-spi2-common_2.46.0-5_all.deb",
+   "sha256": "441bc1c6cefdc01f519310abf55823deb868898480dee09a05aa44e8c83cabc2",
+   "size": 161668,
+   "installed_size": 1344512,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (system message bus)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "dbus-bin",
+    "dbus-daemon",
+    "dbus-system-bus-common",
+    "libc6",
+    "libdbus-1-3",
+    "libexpat1",
+    "libsystemd0",
+    "init-system-helpers"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dbus_1.14.10-1~deb12u1_amd64.deb",
+   "sha256": "35932ffdc1ae80348e93c1263c504e62cae8a2a1476f1541ef63a9cc0a271ef9",
+   "size": 97360,
+   "installed_size": 186368,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus-bin",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (command line utilities)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libdbus-1-3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dbus-bin_1.14.10-1~deb12u1_amd64.deb",
+   "sha256": "7273d6f5ddcafa6bc81e319997f60e9b511a92c4414c1d4ecb05cba9e755da57",
+   "size": 105356,
+   "installed_size": 218112,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus-daemon",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (reference message bus)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "dbus-bin",
+    "dbus-session-bus-common",
+    "libapparmor1",
+    "libaudit1",
+    "libc6",
+    "libcap-ng0",
+    "libdbus-1-3",
+    "libexpat1",
+    "libselinux1",
+    "libsystemd0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dbus-daemon_1.14.10-1~deb12u1_amd64.deb",
+   "sha256": "d35e43de83f7df870196d292a60a56d320c47ce503bc586b30e47a192090302e",
+   "size": 183656,
+   "installed_size": 384000,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus-session-bus-common",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (session bus configuration)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "dbus-session-bus-common_1.14.10-1~deb12u1_all.deb",
+   "sha256": "b19cb8e3581d6b09ff3f46fee23de2813811353228c666c9d1ad885598062e43",
+   "size": 78232,
+   "installed_size": 109568,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus-system-bus-common",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (system bus configuration)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "adduser"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "dbus-system-bus-common_1.14.10-1~deb12u1_all.deb",
+   "sha256": "2111d3d0c98ac68ee973274058447e6fab1c359fec1d4bb195f5fcc5833a19e2",
+   "size": 79344,
+   "installed_size": 121856,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dbus-user-session",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (systemd --user integration)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "dbus-daemon",
+    "dbus-session-bus-common",
+    "libpam-systemd",
+    "systemd"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dbus-user-session_1.14.10-1~deb12u1_amd64.deb",
+   "sha256": "4c3aaad251f876214fadb5580dd5f4925f73838832135e6d1dab981eb963be6b",
+   "size": 78136,
+   "installed_size": 113664,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dconf-gsettings-backend",
+   "version": "0.40.0-4",
+   "description": "simple configuration storage system - GSettings back-end",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/dconf",
+   "deps": [
+    "dconf-service",
+    "libdconf1",
+    "libc6",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dconf-gsettings-backend_0.40.0-4_amd64.deb",
+   "sha256": "790a8ad2a229b378bbda7a0f32d9d8a522c986b08c556210c0514978ad88e356",
+   "size": 27756,
+   "installed_size": 86016,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dconf-service",
+   "version": "0.40.0-4",
+   "description": "simple configuration storage system - D-Bus service",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/dconf",
+   "deps": [
+    "dbus-user-session",
+    "libdconf1",
+    "procps",
+    "libc6",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dconf-service_0.40.0-4_amd64.deb",
+   "sha256": "2650490642fb7e66da94943d381cea277cb811e3a4aadb6386fcd402a8390759",
+   "size": 31620,
+   "installed_size": 110592,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "debconf",
+   "version": "1.5.82",
+   "description": "Debian configuration management system",
+   "license": "",
+   "homepage": "",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "debconf_1.5.82_all.deb",
+   "sha256": "74ab14194a3762b2fc717917dcfda42929ab98e3c59295a063344dc551cd7cc8",
+   "size": 121212,
+   "installed_size": 502784,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "discord",
+   "version": "1.0.162",
+   "description": "Chat for Communities and Friends",
+   "license": "",
+   "homepage": "https://discord.com",
+   "deps": [
+    "libc6",
+    "libasound2",
+    "libatk1.0-0",
+    "libatk-bridge2.0-0",
+    "libatspi2.0-0",
+    "libatomic1",
+    "libcairo2",
+    "libdbus-1-3",
+    "libexpat1",
+    "libgbm1",
+    "libglib2.0-0",
+    "libgtk-3-0",
+    "libnotify4",
+    "libnspr4",
+    "libnss3",
+    "libpango-1.0-0",
+    "libstdc++6",
+    "libudev1",
+    "libx11-6",
+    "libxcb1",
+    "libxcomposite1",
+    "libxdamage1",
+    "libxext6",
+    "libxfixes3",
+    "libxkbcommon0",
+    "libxrandr2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "discord_1.0.162_amd64.deb",
+   "sha256": "e7f346569784ef47eaa530c058d810bef686c7c063efcee6493d56d138f139cc",
+   "size": 2168622,
+   "installed_size": 4366336,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dmsetup",
+   "version": "2:1.02.185-2",
+   "description": "Linux Kernel Device Mapper userspace library",
+   "license": "",
+   "homepage": "https://sourceware.org/lvm2/",
+   "deps": [
+    "libc6",
+    "libdevmapper1.02.1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dmsetup_1.02.185-2_amd64.deb",
+   "sha256": "c73fc490b93c83550ed272de69ec96c5da30d4456b889f9e93c7fd8e53860b85",
+   "size": 82040,
+   "installed_size": 251904,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "dpkg",
+   "version": "1.21.23",
+   "description": "Debian package management system",
+   "license": "",
+   "homepage": "https://wiki.debian.org/Teams/Dpkg",
+   "deps": [
+    "tar",
+    "libbz2-1.0",
+    "libc6",
+    "liblzma5",
+    "libmd0",
+    "libselinux1",
+    "libzstd1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "dpkg_1.21.23_amd64.deb",
+   "sha256": "0e6aafc0d2c9527143c82da02a634fcfa0b4a5f835cc6389f05cac81ae8c4ca4",
+   "size": 1456592,
+   "installed_size": 6562816,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "fontconfig",
+   "version": "2.14.1-4",
+   "description": "generic font configuration library - support binaries",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+   "deps": [
+    "libc6",
+    "libfontconfig1",
+    "libfreetype6",
+    "fontconfig-config"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "fontconfig_2.14.1-4_amd64.deb",
+   "sha256": "010e57c24a983eecc39aab8a84219a716c10901e03bacd1927331388656f890f",
+   "size": 449212,
+   "installed_size": 631808,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "fontconfig-config",
+   "version": "2.14.1-4",
+   "description": "generic font configuration library - configuration",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+   "deps": [
+    "debconf",
+    "fonts-dejavu-core"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "fontconfig-config_2.14.1-4_amd64.deb",
+   "sha256": "281c66e46b95f045a0282a6c7a03b33de0e9a08d016897a759aaf4a04adfddbe",
+   "size": 314864,
+   "installed_size": 539648,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "fonts-dejavu-core",
+   "version": "2.37-6",
+   "description": "Vera font family derivate with additional characters",
+   "license": "",
+   "homepage": "https://dejavu-fonts.github.io/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "fonts-dejavu-core_2.37-6_all.deb",
+   "sha256": "8892669e51aab4dc56682c8e39d8ddb7d70fad83c369344e1e240bf3ca22bb76",
+   "size": 1067728,
+   "installed_size": 3031040,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "gcc-12-base",
+   "version": "12.2.0-14+deb12u1",
+   "description": "GCC, the GNU Compiler Collection (base package)",
+   "license": "",
+   "homepage": "http://gcc.gnu.org/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "gcc-12-base_12.2.0-14+deb12u1_amd64.deb",
+   "sha256": "1896a2aacf4ad681ff5eacc24a5b0ca4d5d9c9b9c9e4b6de5197bc1e116ea619",
+   "size": 37596,
+   "installed_size": 102400,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "gtk-update-icon-cache",
+   "version": "3.24.38-2~deb12u3",
+   "description": "icon theme caching utility",
+   "license": "",
+   "homepage": "https://www.gtk.org/",
+   "deps": [
+    "libc6",
+    "libgdk-pixbuf-2.0-0",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "gtk-update-icon-cache_3.24.38-2~deb12u3_amd64.deb",
+   "sha256": "6df214515e719d9099f6df89f4581abe34b63ea9237b76e93843e83226b2e9cb",
+   "size": 44204,
+   "installed_size": 128000,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "hicolor-icon-theme",
+   "version": "0.17-2",
+   "description": "default fallback theme for FreeDesktop.org icon themes",
+   "license": "",
+   "homepage": "",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "hicolor-icon-theme_0.17-2_all.deb",
+   "sha256": "20304d34b85a734ec1e4830badf3a3a70a5dc5f9c1afc0b2230ecd760c81b5e0",
+   "size": 11396,
+   "installed_size": 451584,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "init-system-helpers",
+   "version": "1.65.2+deb12u1",
+   "description": "helper tools for all init systems",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "usrmerge"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "init-system-helpers_1.65.2+deb12u1_all.deb",
+   "sha256": "afab482524c64e4e256eb5cab43c1a96dc493ec476d94f19f1a5ec3de5fa0fef",
+   "size": 39020,
+   "installed_size": 136192,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libacl1",
+   "version": "2.3.1-3",
+   "description": "access control list - shared library",
+   "license": "",
+   "homepage": "https://savannah.nongnu.org/projects/acl/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libacl1_2.3.1-3_amd64.deb",
+   "sha256": "8be9df5795114bfe90e2be3d208ef47a5edd3fc7b3e20d387a597486d444e5e2",
+   "size": 31488,
+   "installed_size": 74752,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libapparmor1",
+   "version": "3.0.8-3",
+   "description": "changehat AppArmor library",
+   "license": "",
+   "homepage": "https://apparmor.net/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libapparmor1_3.0.8-3_amd64.deb",
+   "sha256": "4b79f49eafc2017374da9ec206b5495433eadd2b1ea078c3895c99e72825e9d3",
+   "size": 41192,
+   "installed_size": 111616,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libargon2-1",
+   "version": "0~20171227-0.3+deb12u1",
+   "description": "memory-hard hashing function - runtime library",
+   "license": "",
+   "homepage": "https://github.com/P-H-C/phc-winner-argon2",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libargon2-1_0~20171227-0.3+deb12u1_amd64.deb",
+   "sha256": "4a8155b06270b88eed34d132acfc8ccc0b85499e1c4bfd7f31f8b199af42b1de",
+   "size": 19432,
+   "installed_size": 57344,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libasound2",
+   "version": "1.2.8-1+b1",
+   "description": "shared library for ALSA applications",
+   "license": "",
+   "homepage": "https://www.alsa-project.org/",
+   "deps": [
+    "libasound2-data",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libasound2_1.2.8-1+b1_amd64.deb",
+   "sha256": "44c77b076a7b11ae99712439022d822245b1994c435da564ebd320bb676faf4c",
+   "size": 361788,
+   "installed_size": 1188864,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libasound2-data",
+   "version": "1.2.8-1",
+   "description": "Configuration files and profiles for ALSA drivers",
+   "license": "",
+   "homepage": "https://www.alsa-project.org/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libasound2-data_1.2.8-1_all.deb",
+   "sha256": "fe0780d2d3674b2977e0acb0d48b448ad72ba1642564b7dc537f55e839984c2d",
+   "size": 20488,
+   "installed_size": 204800,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libatk-bridge2.0-0",
+   "version": "2.46.0-5",
+   "description": "AT-SPI 2 toolkit bridge - shared library",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Accessibility",
+   "deps": [
+    "libatk1.0-0",
+    "libatspi2.0-0",
+    "libc6",
+    "libdbus-1-3",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libatk-bridge2.0-0_2.46.0-5_amd64.deb",
+   "sha256": "fbb07714fdd3fdee7b63fd8595053f4fa8021d8e350a5de6281c6ce7cd4f158f",
+   "size": 64592,
+   "installed_size": 280576,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libatk1.0-0",
+   "version": "2.46.0-5",
+   "description": "ATK accessibility toolkit",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Accessibility",
+   "deps": [
+    "libc6",
+    "libglib2.0-0",
+    "at-spi2-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libatk1.0-0_2.46.0-5_amd64.deb",
+   "sha256": "909dd661e03760a9ba1529bfc772f259cec8431999ee38b7c5521186237cdd98",
+   "size": 49628,
+   "installed_size": 204800,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libatomic1",
+   "version": "12.2.0-14+deb12u1",
+   "description": "support library providing __atomic built-in functions",
+   "license": "",
+   "homepage": "http://gcc.gnu.org/",
+   "deps": [
+    "gcc-12-base",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libatomic1_12.2.0-14+deb12u1_amd64.deb",
+   "sha256": "fbd4e154a6b444229ea002cc209df099209c0adc09102e5fd21239a3d2b55e2d",
+   "size": 9376,
+   "installed_size": 46080,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libatspi2.0-0",
+   "version": "2.46.0-5",
+   "description": "Assistive Technology Service Provider Interface - shared library",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Accessibility",
+   "deps": [
+    "libc6",
+    "libdbus-1-3",
+    "libglib2.0-0",
+    "libx11-6",
+    "libxi6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libatspi2.0-0_2.46.0-5_amd64.deb",
+   "sha256": "1c0332f3b712a8e5ee56800bbcab83a8f92098874094f2b0bdfd6b7fd45e8b83",
+   "size": 75404,
+   "installed_size": 267264,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libaudit-common",
+   "version": "1:3.0.9-1",
+   "description": "Dynamic library for security auditing - common files",
+   "license": "",
+   "homepage": "https://people.redhat.com/sgrubb/audit/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libaudit-common_3.0.9-1_all.deb",
+   "sha256": "17d0341ca6ce604ce59c296780ac2c2a24141a769823c50669af942c025e6591",
+   "size": 10448,
+   "installed_size": 22528,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libaudit1",
+   "version": "1:3.0.9-1",
+   "description": "Dynamic library for security auditing",
+   "license": "",
+   "homepage": "https://people.redhat.com/sgrubb/audit/",
+   "deps": [
+    "libaudit-common",
+    "libc6",
+    "libcap-ng0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libaudit1_3.0.9-1_amd64.deb",
+   "sha256": "30954df4b5a7c505661ba8ae5e6ea94f5805e408899fb400783bb166eb5ff306",
+   "size": 46764,
+   "installed_size": 153600,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libavahi-client3",
+   "version": "0.8-10+deb12u1",
+   "description": "Avahi client library",
+   "license": "",
+   "homepage": "https://avahi.org/",
+   "deps": [
+    "libavahi-common3",
+    "libc6",
+    "libdbus-1-3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavahi-client3_0.8-10+deb12u1_amd64.deb",
+   "sha256": "a99d635f07a49cfbd24de151155c4f815a5adf867855e7ba13ecc3b25ffa52b9",
+   "size": 45756,
+   "installed_size": 119808,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libavahi-common-data",
+   "version": "0.8-10+deb12u1",
+   "description": "Avahi common data files",
+   "license": "",
+   "homepage": "https://avahi.org/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavahi-common-data_0.8-10+deb12u1_amd64.deb",
+   "sha256": "b21e33c3797c834e9a9ce0f1085e6d3f721db496d550505ab2f364d52097fe6f",
+   "size": 107164,
+   "installed_size": 755712,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libavahi-common3",
+   "version": "0.8-10+deb12u1",
+   "description": "Avahi common library",
+   "license": "",
+   "homepage": "https://avahi.org/",
+   "deps": [
+    "libc6",
+    "libavahi-common-data"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavahi-common3_0.8-10+deb12u1_amd64.deb",
+   "sha256": "0c12791afe1be09d8362161244d7a51e82a67a55f3909f4c29ee3dd424c3a5f1",
+   "size": 42112,
+   "installed_size": 96256,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libblkid1",
+   "version": "2.38.1-5+deb12u3",
+   "description": "block device ID library",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libblkid1_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "5a083377f29191cafcdf0f91ec124349b4a7895b531556633a136e43c6d53943",
+   "size": 147380,
+   "installed_size": 407552,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libbrotli1",
+   "version": "1.0.9-2+b6",
+   "description": "library implementing brotli encoder and decoder (shared libraries)",
+   "license": "",
+   "homepage": "https://github.com/google/brotli",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libbrotli1_1.0.9-2+b6_amd64.deb",
+   "sha256": "563b4caec1aa5e876bd3355b36e7a38e1484baf5a293b48d1e8bd22db786e4d7",
+   "size": 275248,
+   "installed_size": 801792,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libbsd0",
+   "version": "0.11.7-2",
+   "description": "utility functions from BSD systems - shared library",
+   "license": "",
+   "homepage": "https://libbsd.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libmd0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libbsd0_0.11.7-2_amd64.deb",
+   "sha256": "bb31cc8b40f962a85b2cec970f7f79cc704a1ae4bad24257a822055404b2c60b",
+   "size": 117416,
+   "installed_size": 206848,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libbz2-1.0",
+   "version": "1.0.8-5+b1",
+   "description": "high-quality block-sorting file compressor library - runtime",
+   "license": "",
+   "homepage": "https://sourceware.org/bzip2/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libbz2-1.0_1.0.8-5+b1_amd64.deb",
+   "sha256": "54149da3f44b22d523b26b692033b84503d822cc5122fed606ea69cc83ca5aeb",
+   "size": 47348,
+   "installed_size": 108544,
+   "date": "2026-10-17T21:30:48Z"
+  },
+  {
+   "name": "libc6",
+   "version": "2.36-9+deb12u14",
+   "description": "GNU C Library: Shared libraries",
+   "license": "",
+   "homepage": "https://www.gnu.org/software/libc/libc.html",
+   "deps": [
+    "libgcc-s1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libc6_2.36-9+deb12u14_amd64.deb",
+   "sha256": "ba4f88f73dbc3ae9055f3c20f4523bfdbaf1ad13ff95e258924f77d20b4fbedf",
+   "size": 2759320,
+   "installed_size": 13313024,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcairo-gobject2",
+   "version": "1.16.0-7",
+   "description": "Cairo 2D vector graphics library (GObject library)",
+   "license": "",
+   "homepage": "https://cairographics.org/",
+   "deps": [
+    "libcairo2",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcairo-gobject2_1.16.0-7_amd64.deb",
+   "sha256": "5898b4c1093ff40bade7acb92affc4a5b5b76a1737cd41cfa2a09cdc2d864d4c",
+   "size": 111752,
+   "installed_size": 182272,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcairo2",
+   "version": "1.16.0-7",
+   "description": "Cairo 2D vector graphics library",
+   "license": "",
+   "homepage": "https://cairographics.org/",
+   "deps": [
+    "libc6",
+    "libfontconfig1",
+    "libfreetype6",
+    "libpixman-1-0",
+    "libpng16-16",
+    "libx11-6",
+    "libxcb-render0",
+    "libxcb-shm0",
+    "libxcb1",
+    "libxext6",
+    "libxrender1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcairo2_1.16.0-7_amd64.deb",
+   "sha256": "927fa059f8b5791d0cd744d4e3a8c57fa872ef849ce14434dc2222ac8a076a69",
+   "size": 574676,
+   "installed_size": 1338368,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcap-ng0",
+   "version": "0.8.3-1+b3",
+   "description": "alternate POSIX capabilities library",
+   "license": "",
+   "homepage": "https://people.redhat.com/sgrubb/libcap-ng",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcap-ng0_0.8.3-1+b3_amd64.deb",
+   "sha256": "b4b54769c77e4a71c8b33aee4d600ba28a9994a1c6f60d55d4ebe7fc44882e07",
+   "size": 17068,
+   "installed_size": 66560,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcap2",
+   "version": "1:2.66-4+deb12u3+b1",
+   "description": "POSIX 1003.1e capabilities (library)",
+   "license": "",
+   "homepage": "https://sites.google.com/site/fullycapable/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcap2_2.66-4+deb12u3+b1_amd64.deb",
+   "sha256": "8d684c673e7483802a5c447834b0df6fce006eb3a7109e1be412f5ad425bb24f",
+   "size": 27708,
+   "installed_size": 97280,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcolord2",
+   "version": "1.4.6-2.2",
+   "description": "system service to manage device colour profiles -- runtime",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/software/colord/",
+   "deps": [
+    "libc6",
+    "libglib2.0-0",
+    "liblcms2-2",
+    "libudev1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcolord2_1.4.6-2.2_amd64.deb",
+   "sha256": "6e5a48b72ae316301103d642c8881cc06205cb4b5f54c25c467b2847048d268f",
+   "size": 136572,
+   "installed_size": 623616,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcom-err2",
+   "version": "1.47.0-2+b2",
+   "description": "common error description library",
+   "license": "",
+   "homepage": "http://e2fsprogs.sourceforge.net",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcom-err2_1.47.0-2+b2_amd64.deb",
+   "sha256": "a2bac7015e78fbc0c504df3e441f3a22292f1d2d77f9ccda760057f3690e22f2",
+   "size": 20044,
+   "installed_size": 56320,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcrypt1",
+   "version": "1:4.4.33-2",
+   "description": "libcrypt shared library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcrypt1_4.4.33-2_amd64.deb",
+   "sha256": "f5f60a5cdfd4e4eaa9438ade5078a57741a7a78d659fcb0c701204f523e8bd29",
+   "size": 89464,
+   "installed_size": 238592,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcryptsetup12",
+   "version": "2:2.6.1-4~deb12u2",
+   "description": "disk encryption support - shared library",
+   "license": "",
+   "homepage": "https://gitlab.com/cryptsetup/cryptsetup",
+   "deps": [
+    "libargon2-1",
+    "libblkid1",
+    "libc6",
+    "libdevmapper1.02.1",
+    "libjson-c5",
+    "libssl3",
+    "libuuid1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcryptsetup12_2.6.1-4~deb12u2_amd64.deb",
+   "sha256": "b9a607c219be5ef04bc0fcfaec3752d9a1ba07df8d3bb2aed9bf348f90d1b6cc",
+   "size": 223344,
+   "installed_size": 576512,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libcups2",
+   "version": "2.4.2-3+deb12u9",
+   "description": "Common UNIX Printing System(tm) - Core library",
+   "license": "",
+   "homepage": "https://github.com/OpenPrinting/cups/",
+   "deps": [
+    "libavahi-client3",
+    "libavahi-common3",
+    "libc6",
+    "libgnutls30",
+    "libgssapi-krb5-2",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcups2_2.4.2-3+deb12u9_amd64.deb",
+   "sha256": "8dbfd3b7cd81166a2d79bb7e3898b0203fec05c7e927f60e207122a1e36b95c8",
+   "size": 245180,
+   "installed_size": 691200,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdatrie1",
+   "version": "0.2.13-2+b1",
+   "description": "Double-array trie library",
+   "license": "",
+   "homepage": "https://linux.thai.net/projects/libthai",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdatrie1_0.2.13-2+b1_amd64.deb",
+   "sha256": "f021f193384929989b2dfd19f606a8cebe54b5f209fe387fc40683e810e01ebe",
+   "size": 43320,
+   "installed_size": 83968,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdb5.3",
+   "version": "5.3.28+dfsg2-1",
+   "description": "Berkeley v5.3 Database Libraries [runtime]",
+   "license": "",
+   "homepage": "http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdb5.3_5.3.28+dfsg2-1_amd64.deb",
+   "sha256": "7dc5127b8dd0da80e992ba594954c005ae4359d839a24eb65d0d8129b5235c84",
+   "size": 697412,
+   "installed_size": 1876992,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdbus-1-3",
+   "version": "1.14.10-1~deb12u1",
+   "description": "simple interprocess messaging system (library)",
+   "license": "",
+   "homepage": "https://dbus.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libsystemd0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdbus-1-3_1.14.10-1~deb12u1_amd64.deb",
+   "sha256": "18ee0ce5fab9f7b671e87da1e9fa18660e36e04a3402f24bdb8635e0ba1d35f6",
+   "size": 201240,
+   "installed_size": 479232,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdconf1",
+   "version": "0.40.0-4",
+   "description": "simple configuration storage system - runtime library",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/dconf",
+   "deps": [
+    "libc6",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdconf1_0.40.0-4_amd64.deb",
+   "sha256": "d438bb2e3b5afaee2a90bb3fb541dcd2e47eefbc43994b5d0461c18648741e36",
+   "size": 40908,
+   "installed_size": 114688,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdeflate0",
+   "version": "1.14-1",
+   "description": "fast, whole-buffer DEFLATE-based compression and decompression",
+   "license": "",
+   "homepage": "https://github.com/ebiggers/libdeflate",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdeflate0_1.14-1_amd64.deb",
+   "sha256": "3d4b39f94317b64a860db8a7a8b581b555124cd461fe07ec0d347edbdb9f6683",
+   "size": 61416,
+   "installed_size": 164864,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdevmapper1.02.1",
+   "version": "2:1.02.185-2",
+   "description": "Linux Kernel Device Mapper userspace library",
+   "license": "",
+   "homepage": "https://sourceware.org/lvm2/",
+   "deps": [
+    "libc6",
+    "libselinux1",
+    "libudev1",
+    "dmsetup"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdevmapper1.02.1_1.02.185-2_amd64.deb",
+   "sha256": "aaa78ca236055fedccf637eacf7bda02bf1980b2db668dccd202b04d0d2cfe04",
+   "size": 132796,
+   "installed_size": 485376,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdrm-common",
+   "version": "2.4.114-1",
+   "description": "Userspace interface to kernel DRM services -- common files",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libdrm-common_2.4.114-1_all.deb",
+   "sha256": "32f9664138b38b224383c6986457d5ad2ec8efd559b1a0ce7749405f7a451aad",
+   "size": 7112,
+   "installed_size": 43008,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libdrm2",
+   "version": "2.4.114-1+b1",
+   "description": "Userspace interface to kernel DRM services -- runtime",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [
+    "libdrm-common",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdrm2_2.4.114-1+b1_amd64.deb",
+   "sha256": "be18fb670797ba32da9628cf3e8acd83160d8db8c8dd842501dd8e401c3b5371",
+   "size": 37472,
+   "installed_size": 123904,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libepoxy0",
+   "version": "1.5.10-1",
+   "description": "OpenGL function pointer management library",
+   "license": "",
+   "homepage": "https://github.com/anholt/libepoxy",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libepoxy0_1.5.10-1_amd64.deb",
+   "sha256": "050cbedc9c2a5cce976151c720a3817f2103a01e6ac255bdd6f2c6a7509b04c3",
+   "size": 189092,
+   "installed_size": 1388544,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libexpat1",
+   "version": "2.5.0-1+deb12u2",
+   "description": "XML parsing C library - runtime library",
+   "license": "",
+   "homepage": "https://libexpat.github.io/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libexpat1_2.5.0-1+deb12u2_amd64.deb",
+   "sha256": "2255e62fc22a86d2c544b8a3f516da9aee19383ad5742722ab4ce7f66a30dbc8",
+   "size": 99888,
+   "installed_size": 397312,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libfdisk1",
+   "version": "2.38.1-5+deb12u3",
+   "description": "fdisk partitioning library",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libblkid1",
+    "libc6",
+    "libuuid1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libfdisk1_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "8af145cff6ca72529f63e0bf6d9c68c8512387e67f64e66d00e36f72bed99160",
+   "size": 193624,
+   "installed_size": 545792,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libffi8",
+   "version": "3.4.4-1",
+   "description": "Foreign Function Interface library runtime",
+   "license": "",
+   "homepage": "https://sourceware.org/libffi/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libffi8_3.4.4-1_amd64.deb",
+   "sha256": "6d9f6c25c30efccce6d4bceaa48ea86c329a3432abb360a141f76ac223a4c34a",
+   "size": 22856,
+   "installed_size": 69632,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libfile-find-rule-perl",
+   "version": "0.34-4~deb12u1",
+   "description": "module to search for files based on rules",
+   "license": "",
+   "homepage": "https://metacpan.org/release/File-Find-Rule",
+   "deps": [
+    "perl",
+    "libnumber-compare-perl",
+    "libtext-glob-perl"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libfile-find-rule-perl_0.34-4~deb12u1_all.deb",
+   "sha256": "d941143c65e47eff192195ed1b8367d3d74e5a0de668fc5ae9d787383ec48c23",
+   "size": 26736,
+   "installed_size": 64512,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libfontconfig1",
+   "version": "2.14.1-4",
+   "description": "generic font configuration library - runtime",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+   "deps": [
+    "libc6",
+    "libexpat1",
+    "libfreetype6",
+    "fontconfig-config"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libfontconfig1_2.14.1-4_amd64.deb",
+   "sha256": "16ee38d374e064f534116dc442b086ef26f9831f1c0af7e5fb4fe4512e700649",
+   "size": 385664,
+   "installed_size": 592896,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libfreetype6",
+   "version": "2.12.1+dfsg-5+deb12u4",
+   "description": "FreeType 2 font engine, shared library files",
+   "license": "",
+   "homepage": "https://freetype.org",
+   "deps": [
+    "libbrotli1",
+    "libc6",
+    "libpng16-16",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libfreetype6_2.12.1+dfsg-5+deb12u4_amd64.deb",
+   "sha256": "8043e479f73f29992d652e3f9dfe8b17f9780c7ea6330afe379ec5f9f188ac44",
+   "size": 397736,
+   "installed_size": 907264,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libfribidi0",
+   "version": "1.0.8-2.1",
+   "description": "Free Implementation of the Unicode BiDi algorithm",
+   "license": "",
+   "homepage": "http://www.fribidi.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libfribidi0_1.0.8-2.1_amd64.deb",
+   "sha256": "87fce56627aab7b2968501d370aa3ed6d1c792119efa765e71a690bdfe570e62",
+   "size": 64952,
+   "installed_size": 176128,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgbm1",
+   "version": "22.3.6-1+deb12u2",
+   "description": "generic buffer management API -- runtime",
+   "license": "",
+   "homepage": "https://mesa3d.org/",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libexpat1",
+    "libwayland-server0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgbm1_22.3.6-1+deb12u2_amd64.deb",
+   "sha256": "4323840f2b7b3e108990848529125d99c0956ae5a854c1e0568ed08c8faeaa2e",
+   "size": 38132,
+   "installed_size": 109568,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgcc-s1",
+   "version": "12.2.0-14+deb12u1",
+   "description": "GCC support library",
+   "license": "",
+   "homepage": "http://gcc.gnu.org/",
+   "deps": [
+    "gcc-12-base",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgcc-s1_12.2.0-14+deb12u1_amd64.deb",
+   "sha256": "3016e62cb4b7cd8038822870601f5ed131befe942774d0f745622cc77d8a88f7",
+   "size": 49856,
+   "installed_size": 143360,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgcrypt20",
+   "version": "1.10.1-3+deb12u1",
+   "description": "LGPL Crypto library - runtime library",
+   "license": "",
+   "homepage": "https://directory.fsf.org/project/libgcrypt/",
+   "deps": [
+    "libc6",
+    "libgpg-error0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgcrypt20_1.10.1-3+deb12u1_amd64.deb",
+   "sha256": "e7a56552139c693904a6f9712234c05fe918353273a7cbdb5e62f423ad71bb97",
+   "size": 696204,
+   "installed_size": 1630208,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgdbm-compat4",
+   "version": "1.23-3",
+   "description": "GNU dbm database routines (legacy support runtime version)",
+   "license": "",
+   "homepage": "https://gnu.org/software/gdbm",
+   "deps": [
+    "libc6",
+    "libgdbm6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgdbm-compat4_1.23-3_amd64.deb",
+   "sha256": "4af36a590b68d415a78d9238b932b6a4579f515ec8a8016597498acff5b515a4",
+   "size": 48156,
+   "installed_size": 71680,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgdbm6",
+   "version": "1.23-3",
+   "description": "GNU dbm database routines (runtime version)",
+   "license": "",
+   "homepage": "https://gnu.org/software/gdbm",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgdbm6_1.23-3_amd64.deb",
+   "sha256": "95fe4a1336532450e67bd067892f46eaa484139919ea8d067a9ffcbf5a4bf883",
+   "size": 72248,
+   "installed_size": 132096,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgdk-pixbuf-2.0-0",
+   "version": "2.42.10+dfsg-1+deb12u4",
+   "description": "GDK Pixbuf library",
+   "license": "",
+   "homepage": "https://www.gtk.org/",
+   "deps": [
+    "libgdk-pixbuf2.0-common",
+    "shared-mime-info",
+    "libc6",
+    "libglib2.0-0",
+    "libjpeg62-turbo",
+    "libpng16-16",
+    "libtiff6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgdk-pixbuf-2.0-0_2.42.10+dfsg-1+deb12u4_amd64.deb",
+   "sha256": "19673127f2530deb7cf637c688a4e16384e6887627296e16b8169038928cadc3",
+   "size": 138972,
+   "installed_size": 488448,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgdk-pixbuf2.0-common",
+   "version": "2.42.10+dfsg-1+deb12u4",
+   "description": "GDK Pixbuf library - data files",
+   "license": "",
+   "homepage": "https://www.gtk.org/",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libgdk-pixbuf2.0-common_2.42.10+dfsg-1+deb12u4_all.deb",
+   "sha256": "0f3df073ca7eed5564ea3faceff819d94932d924c56474f1e42799a8017a2d30",
+   "size": 306756,
+   "installed_size": 2576384,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libglib2.0-0",
+   "version": "2.74.6-2+deb12u9",
+   "description": "GLib library of C routines",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/GLib",
+   "deps": [
+    "libc6",
+    "libffi8",
+    "libmount1",
+    "libpcre2-8-0",
+    "libselinux1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglib2.0-0_2.74.6-2+deb12u9_amd64.deb",
+   "sha256": "7ff85197685d89e150e342b29a59aab1beee400050ba7da73de81cd999ffee5a",
+   "size": 1403216,
+   "installed_size": 4234240,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgmp10",
+   "version": "2:6.2.1+dfsg1-1.1",
+   "description": "Multiprecision arithmetic library",
+   "license": "",
+   "homepage": "https://gmplib.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgmp10_6.2.1+dfsg1-1.1_amd64.deb",
+   "sha256": "187aedef2ed763f425c1e523753b9719677633c7eede660401739e9c893482bd",
+   "size": 562588,
+   "installed_size": 875520,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgnutls30",
+   "version": "3.7.9-2+deb12u7",
+   "description": "GNU TLS library - main runtime library",
+   "license": "",
+   "homepage": "https://www.gnutls.org/",
+   "deps": [
+    "libc6",
+    "libgmp10",
+    "libhogweed6",
+    "libidn2-0",
+    "libnettle8",
+    "libp11-kit0",
+    "libtasn1-6",
+    "libunistring2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgnutls30_3.7.9-2+deb12u7_amd64.deb",
+   "sha256": "30abec8c824feb1d2d7e9000a34083cccd19d139625e1b21547e3ac53b922f8e",
+   "size": 1409084,
+   "installed_size": 3477504,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgpg-error0",
+   "version": "1.46-1",
+   "description": "GnuPG development runtime library",
+   "license": "",
+   "homepage": "https://www.gnupg.org/related_software/libgpg-error/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgpg-error0_1.46-1_amd64.deb",
+   "sha256": "89944ee11d7370ce6ef46fc52f094c4a6512eff8943ec4c6ebefeae6360ceada",
+   "size": 76888,
+   "installed_size": 196608,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgraphite2-3",
+   "version": "1.3.14-1+deb12u1",
+   "description": "Font rendering engine for Complex Scripts -- library",
+   "license": "",
+   "homepage": "http://graphite.sil.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgraphite2-3_1.3.14-1+deb12u1_amd64.deb",
+   "sha256": "c19a7f6ba9298db7eef041ae27b08985f2c02009e418063f8bccdb5bc5e858dc",
+   "size": 74564,
+   "installed_size": 195584,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgssapi-krb5-2",
+   "version": "1.20.1-2+deb12u5",
+   "description": "MIT Kerberos runtime libraries - krb5 GSS-API Mechanism",
+   "license": "",
+   "homepage": "https://web.mit.edu/kerberos/",
+   "deps": [
+    "libc6",
+    "libcom-err2",
+    "libk5crypto3",
+    "libkrb5-3",
+    "libkrb5support0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgssapi-krb5-2_1.20.1-2+deb12u5_amd64.deb",
+   "sha256": "d8b87aea91b956b416c01a28c44ff6228315ae3b73de40acddac3dc5043607d2",
+   "size": 135168,
+   "installed_size": 435200,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgtk-3-0",
+   "version": "3.24.38-2~deb12u3",
+   "description": "GTK graphical user interface library",
+   "license": "",
+   "homepage": "https://www.gtk.org/",
+   "deps": [
+    "adwaita-icon-theme",
+    "hicolor-icon-theme",
+    "shared-mime-info",
+    "libatk-bridge2.0-0",
+    "libatk1.0-0",
+    "libc6",
+    "libcairo-gobject2",
+    "libcairo2",
+    "libcolord2",
+    "libcups2",
+    "libepoxy0",
+    "libfontconfig1",
+    "libfribidi0",
+    "libgdk-pixbuf-2.0-0",
+    "libglib2.0-0",
+    "libharfbuzz0b",
+    "libpango-1.0-0",
+    "libpangocairo-1.0-0",
+    "libpangoft2-1.0-0",
+    "libwayland-client0",
+    "libwayland-cursor0",
+    "libwayland-egl1",
+    "libx11-6",
+    "libxcomposite1",
+    "libxcursor1",
+    "libxdamage1",
+    "libxext6",
+    "libxfixes3",
+    "libxi6",
+    "libxinerama1",
+    "libxkbcommon0",
+    "libxrandr2",
+    "libgtk-3-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgtk-3-0_3.24.38-2~deb12u3_amd64.deb",
+   "sha256": "0ff7375c98b5a8d6aafc6096b21d9f7bae4ecb581d31fce5d37be18f55b489a2",
+   "size": 2846524,
+   "installed_size": 10384384,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libgtk-3-common",
+   "version": "3.24.38-2~deb12u3",
+   "description": "common files for the GTK graphical user interface library",
+   "license": "",
+   "homepage": "https://www.gtk.org/",
+   "deps": [
+    "dconf-gsettings-backend"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libgtk-3-common_3.24.38-2~deb12u3_all.deb",
+   "sha256": "f2642d127d85440acbfc2ed404d3932d8b2fbe8a576ead7f93f35ac1fa999c92",
+   "size": 3895056,
+   "installed_size": 27140096,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libharfbuzz0b",
+   "version": "6.0.0+dfsg-3",
+   "description": "OpenType text shaping engine (shared library)",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz",
+   "deps": [
+    "libc6",
+    "libfreetype6",
+    "libglib2.0-0",
+    "libgraphite2-3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libharfbuzz0b_6.0.0+dfsg-3_amd64.deb",
+   "sha256": "bfce132b7ee67b9c2d2166075b1936a25c8cc6866b6a049f99b8e94baa916e71",
+   "size": 1945396,
+   "installed_size": 2671616,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libhogweed6",
+   "version": "3.8.1-2",
+   "description": "low level cryptographic library (public-key cryptos)",
+   "license": "",
+   "homepage": "http://www.lysator.liu.se/~nisse/nettle/",
+   "deps": [
+    "libc6",
+    "libgmp10",
+    "libnettle8"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libhogweed6_3.8.1-2_amd64.deb",
+   "sha256": "ed8185c28b2cb519744a5a462dcd720d3b332c9b88a1d0002eac06dc8550cb94",
+   "size": 327524,
+   "installed_size": 474112,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libicu72",
+   "version": "72.1-3+deb12u1",
+   "description": "International Components for Unicode",
+   "license": "",
+   "homepage": "https://icu.unicode.org/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libicu72_72.1-3+deb12u1_amd64.deb",
+   "sha256": "f7f6f99c6d7b025914df2447fc93e11d22c44c0c8bdd8b6f36691c9e7ddcef88",
+   "size": 9376124,
+   "installed_size": 37038080,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libidn2-0",
+   "version": "2.3.3-1+b1",
+   "description": "Internationalized domain names (IDNA2008/TR46) library",
+   "license": "",
+   "homepage": "https://www.gnu.org/software/libidn/#libidn2",
+   "deps": [
+    "libc6",
+    "libunistring2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libidn2-0_2.3.3-1+b1_amd64.deb",
+   "sha256": "d50716d5824083d667427817d506b45d3f59dc77e1ca52de000f3f62d4918afa",
+   "size": 123636,
+   "installed_size": 449536,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libip4tc2",
+   "version": "1.8.9-2",
+   "description": "netfilter libip4tc library",
+   "license": "",
+   "homepage": "https://www.netfilter.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libip4tc2_1.8.9-2_amd64.deb",
+   "sha256": "f2c48b367f9ec13f9aa577e7ccf81b371ce5d5fe22dddf9d7aa99f1e0bb7cfc4",
+   "size": 19016,
+   "installed_size": 67584,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libjbig0",
+   "version": "2.1-6.1",
+   "description": "JBIGkit libraries",
+   "license": "",
+   "homepage": "http://www.cl.cam.ac.uk/~mgk25/jbigkit/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libjbig0_2.1-6.1_amd64.deb",
+   "sha256": "6b07c77b700a615642888a82ba92a7e7c429d04b9c8669c62b2263f15c4c4059",
+   "size": 31704,
+   "installed_size": 86016,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libjpeg62-turbo",
+   "version": "1:2.1.5-2",
+   "description": "libjpeg-turbo JPEG runtime library",
+   "license": "",
+   "homepage": "https://www.libjpeg-turbo.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libjpeg62-turbo_2.1.5-2_amd64.deb",
+   "sha256": "95ec30140789a342add8f8371ed018924de51b539056522b66f207b25cba9cad",
+   "size": 166332,
+   "installed_size": 693248,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libjson-c5",
+   "version": "0.16-2",
+   "description": "JSON manipulation library - shared library",
+   "license": "",
+   "homepage": "https://github.com/json-c/json-c/wiki",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libjson-c5_0.16-2_amd64.deb",
+   "sha256": "d0e1ed8637d1c26b9720f6057d6355f18378bba5cc2553e459d1632783c00d70",
+   "size": 44120,
+   "installed_size": 111616,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libk5crypto3",
+   "version": "1.20.1-2+deb12u5",
+   "description": "MIT Kerberos runtime libraries - Crypto Library",
+   "license": "",
+   "homepage": "https://web.mit.edu/kerberos/",
+   "deps": [
+    "libc6",
+    "libkrb5support0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libk5crypto3_1.20.1-2+deb12u5_amd64.deb",
+   "sha256": "7b6e47d15c5c9cdcd456137533d8308aeba608a54cec73b28bd59bfc4b54cf06",
+   "size": 79712,
+   "installed_size": 267264,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libkeyutils1",
+   "version": "1.6.3-2",
+   "description": "Linux Key Management Utilities (library)",
+   "license": "",
+   "homepage": "https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libkeyutils1_1.6.3-2_amd64.deb",
+   "sha256": "cfac89e6a7a54ff3c6a4f843310e25efeddaa771baeae470bd98bd588c373563",
+   "size": 8808,
+   "installed_size": 40960,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libkmod2",
+   "version": "30+20221128-1",
+   "description": "libkmod shared library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "liblzma5",
+    "libssl3",
+    "libzstd1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libkmod2_30+20221128-1_amd64.deb",
+   "sha256": "af63bbbfc15fbd1f254b15c393b3b95b18b18cc81348fc1b4f1c9c34b4d672d7",
+   "size": 57892,
+   "installed_size": 144384,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libkrb5-3",
+   "version": "1.20.1-2+deb12u5",
+   "description": "MIT Kerberos runtime libraries",
+   "license": "",
+   "homepage": "https://web.mit.edu/kerberos/",
+   "deps": [
+    "libc6",
+    "libcom-err2",
+    "libk5crypto3",
+    "libkeyutils1",
+    "libkrb5support0",
+    "libssl3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libkrb5-3_1.20.1-2+deb12u5_amd64.deb",
+   "sha256": "c90801be09701af221b54dd502a59cb378b7284ff31e480738baca317d2f7653",
+   "size": 332280,
+   "installed_size": 1102848,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libkrb5support0",
+   "version": "1.20.1-2+deb12u5",
+   "description": "MIT Kerberos runtime libraries - Support library",
+   "license": "",
+   "homepage": "https://web.mit.edu/kerberos/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libkrb5support0_1.20.1-2+deb12u5_amd64.deb",
+   "sha256": "8b9c05f2d8d461a10d657b118f572af5bf8fd6c8f93dcef81e852c5ab0f428ab",
+   "size": 33212,
+   "installed_size": 137216,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "liblcms2-2",
+   "version": "2.14-2+deb12u1",
+   "description": "Little CMS 2 color management library",
+   "license": "",
+   "homepage": "http://www.littlecms.com/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "liblcms2-2_2.14-2+deb12u1_amd64.deb",
+   "sha256": "333efe13d165b8a98194d95e72fd10b502ebbee4dc2eb43fc2ab83e2b53e5f17",
+   "size": 153540,
+   "installed_size": 438272,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "liblerc4",
+   "version": "4.0.0+ds-2",
+   "description": "Limited Error Raster Compression library",
+   "license": "",
+   "homepage": "https://github.com/Esri/lerc",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "liblerc4_4.0.0+ds-2_amd64.deb",
+   "sha256": "771f5c47ca69f24ca61e4be0c98c5912b182ce442f921697d17a472f3ded5c9c",
+   "size": 170368,
+   "installed_size": 664576,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "liblz4-1",
+   "version": "1.9.4-1",
+   "description": "Fast LZ compression algorithm library - runtime",
+   "license": "",
+   "homepage": "https://github.com/lz4/lz4",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "liblz4-1_1.9.4-1_amd64.deb",
+   "sha256": "64cde86cef1deaf828bd60297839b59710b5cd8dc50efd4f12643caaee9389d3",
+   "size": 62884,
+   "installed_size": 173056,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "liblzma5",
+   "version": "5.4.1-1+deb12u1",
+   "description": "XZ-format compression library",
+   "license": "",
+   "homepage": "https://tukaani.org/xz/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "liblzma5_5.4.1-1+deb12u1_amd64.deb",
+   "sha256": "f96d8876b53ec89d76a992bc199679b818cf518225a768954d9451fb556a4eb7",
+   "size": 205732,
+   "installed_size": 340992,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libmd0",
+   "version": "1.0.4-2",
+   "description": "message digest functions from BSD systems - shared library",
+   "license": "",
+   "homepage": "https://www.hadrons.org/software/libmd/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmd0_1.0.4-2_amd64.deb",
+   "sha256": "03539fd30c509e27101d13a56e52eda9062bdf1aefe337c07ab56def25a13eab",
+   "size": 29456,
+   "installed_size": 80896,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libmount1",
+   "version": "2.38.1-5+deb12u3",
+   "description": "device mounting library",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libblkid1",
+    "libc6",
+    "libselinux1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmount1_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "f46e2d6b006951825adde9757790b6609d7c66c7700f9b68f3db913eaac323c3",
+   "size": 165732,
+   "installed_size": 464896,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libncursesw6",
+   "version": "6.4-4",
+   "description": "shared libraries for terminal handling (wide character support)",
+   "license": "",
+   "homepage": "https://invisible-island.net/ncurses/",
+   "deps": [
+    "libtinfo6",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libncursesw6_6.4-4_amd64.deb",
+   "sha256": "98fa7a53dc565a38b65fb70422ad08001bf5361d8fbc74255280c329996a6bec",
+   "size": 133824,
+   "installed_size": 421888,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libnettle8",
+   "version": "3.8.1-2",
+   "description": "low level cryptographic library (symmetric and one-way cryptos)",
+   "license": "",
+   "homepage": "http://www.lysator.liu.se/~nisse/nettle/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnettle8_3.8.1-2_amd64.deb",
+   "sha256": "45922e6e289ffd92f0f92d2bb9159e84236ff202d552a461bf10e5335b3f0261",
+   "size": 287764,
+   "installed_size": 532480,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libnotify4",
+   "version": "0.8.1-1",
+   "description": "sends desktop notifications to a notification daemon",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libgdk-pixbuf-2.0-0",
+    "libglib2.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnotify4_0.8.1-1_amd64.deb",
+   "sha256": "00faff691fcfc7df906fea00733493ef85197a0a478412dd355af269bc6e4b5e",
+   "size": 30144,
+   "installed_size": 81920,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libnspr4",
+   "version": "2:4.35-1",
+   "description": "NetScape Portable Runtime Library",
+   "license": "",
+   "homepage": "http://www.mozilla.org/projects/nspr/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnspr4_4.35-1_amd64.deb",
+   "sha256": "6cca09767e94e4b5d2888ef31ad797bd3e7cec27fbbe98b49b10d4884746ce77",
+   "size": 113108,
+   "installed_size": 329728,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libnss3",
+   "version": "2:3.87.1-1+deb12u2",
+   "description": "Network Security Service libraries",
+   "license": "",
+   "homepage": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+   "deps": [
+    "libc6",
+    "libnspr4",
+    "libsqlite3-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnss3_3.87.1-1+deb12u2_amd64.deb",
+   "sha256": "bb4339de2e76be9862225447c6c24b9d759baba5ee861d86dfb558ebf4474d14",
+   "size": 1332396,
+   "installed_size": 4212736,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libnumber-compare-perl",
+   "version": "0.03-3",
+   "description": "module for performing numeric comparisons in Perl",
+   "license": "",
+   "homepage": "https://metacpan.org/release/Number-Compare",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libnumber-compare-perl_0.03-3_all.deb",
+   "sha256": "cf95662e27037d92c582647400bb1ca7a6dfd2eb26eee5b968b23263cd4976dc",
+   "size": 6332,
+   "installed_size": 19456,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libp11-kit0",
+   "version": "0.24.1-2",
+   "description": "library for loading and coordinating access to PKCS#11 modules - runtime",
+   "license": "",
+   "homepage": "https://p11-glue.github.io/p11-glue/p11-kit.html",
+   "deps": [
+    "libc6",
+    "libffi8"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libp11-kit0_0.24.1-2_amd64.deb",
+   "sha256": "251330faddbf013f060fcdb41f4b0c037c8a6e89ba7c09b04bfcc4e3f0807b22",
+   "size": 345080,
+   "installed_size": 1441792,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpam-modules",
+   "version": "1.5.2-6+deb12u2",
+   "description": "Pluggable Authentication Modules for PAM",
+   "license": "",
+   "homepage": "http://www.linux-pam.org/",
+   "deps": [
+    "libaudit1",
+    "libc6",
+    "libcrypt1",
+    "libdb5.3",
+    "libpam0g",
+    "libselinux1",
+    "debconf",
+    "libpam-modules-bin"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpam-modules_1.5.2-6+deb12u2_amd64.deb",
+   "sha256": "19fb4838168e68bc15a5606070f14b1162bb34a3899686913f5d661f1707f483",
+   "size": 291056,
+   "installed_size": 1055744,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpam-modules-bin",
+   "version": "1.5.2-6+deb12u2",
+   "description": "Pluggable Authentication Modules for PAM - helper binaries",
+   "license": "",
+   "homepage": "http://www.linux-pam.org/",
+   "deps": [
+    "libaudit1",
+    "libc6",
+    "libcrypt1",
+    "libpam0g",
+    "libselinux1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpam-modules-bin_1.5.2-6+deb12u2_amd64.deb",
+   "sha256": "e7b1f6c60a51398920c5da792016161a65bf1c7caaa64140dd2099176ed51280",
+   "size": 75676,
+   "installed_size": 232448,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpam-runtime",
+   "version": "1.5.2-6+deb12u2",
+   "description": "Runtime support for the PAM library",
+   "license": "",
+   "homepage": "http://www.linux-pam.org/",
+   "deps": [
+    "debconf",
+    "libpam-modules"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libpam-runtime_1.5.2-6+deb12u2_all.deb",
+   "sha256": "7a4f26d54c1e3ee8c68095f9d9013d13dd89a33ff78ef87330d21f21235fc278",
+   "size": 160936,
+   "installed_size": 897024,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpam-systemd",
+   "version": "252.39-1~deb12u2",
+   "description": "system and service manager - PAM module",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "libc6",
+    "libcap2",
+    "libpam0g",
+    "systemd",
+    "libpam-runtime",
+    "dbus",
+    "systemd-sysv"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpam-systemd_252.39-1~deb12u2_amd64.deb",
+   "sha256": "5629028998971da269a165cdbeb1c7606e9c37e58030217ae93f55233388be32",
+   "size": 225520,
+   "installed_size": 544768,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpam0g",
+   "version": "1.5.2-6+deb12u2",
+   "description": "Pluggable Authentication Modules library",
+   "license": "",
+   "homepage": "http://www.linux-pam.org/",
+   "deps": [
+    "libaudit1",
+    "libc6",
+    "debconf"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpam0g_1.5.2-6+deb12u2_amd64.deb",
+   "sha256": "a06f889caf9e97ccf04dedec0905573916bc6ec3366ade2c6ef8900047fd5cc1",
+   "size": 92060,
+   "installed_size": 220160,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpango-1.0-0",
+   "version": "1.50.12+ds-1",
+   "description": "Layout and rendering of internationalized text",
+   "license": "",
+   "homepage": "https://www.pango.org/",
+   "deps": [
+    "fontconfig",
+    "libc6",
+    "libfribidi0",
+    "libglib2.0-0",
+    "libharfbuzz0b",
+    "libthai0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpango-1.0-0_1.50.12+ds-1_amd64.deb",
+   "sha256": "851720de07441ae6bb6a7f51fc0f2edb4db7aa6f25b5bf1bf7b72dcab8947b7f",
+   "size": 211788,
+   "installed_size": 532480,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpangocairo-1.0-0",
+   "version": "1.50.12+ds-1",
+   "description": "Layout and rendering of internationalized text",
+   "license": "",
+   "homepage": "https://www.pango.org/",
+   "deps": [
+    "libc6",
+    "libcairo2",
+    "libfontconfig1",
+    "libglib2.0-0",
+    "libharfbuzz0b",
+    "libpango-1.0-0",
+    "libpangoft2-1.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpangocairo-1.0-0_1.50.12+ds-1_amd64.deb",
+   "sha256": "96695f9cdd3bf346e3555cf0aa158e23a36114d6dec203b00ab4e93f1b77aab9",
+   "size": 34184,
+   "installed_size": 105472,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpangoft2-1.0-0",
+   "version": "1.50.12+ds-1",
+   "description": "Layout and rendering of internationalized text",
+   "license": "",
+   "homepage": "https://www.pango.org/",
+   "deps": [
+    "libc6",
+    "libfontconfig1",
+    "libfreetype6",
+    "libglib2.0-0",
+    "libharfbuzz0b",
+    "libpango-1.0-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpangoft2-1.0-0_1.50.12+ds-1_amd64.deb",
+   "sha256": "78da3f494109f6e7a39c4626aaae7571c600c5854cecda0bc0c902224986a63b",
+   "size": 47384,
+   "installed_size": 145408,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpcre2-8-0",
+   "version": "10.42-1",
+   "description": "New Perl Compatible Regular Expression Library- 8 bit runtime files",
+   "license": "",
+   "homepage": "https://pcre.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpcre2-8-0_10.42-1_amd64.deb",
+   "sha256": "030db54f4d76cdfe2bf0e8eb5f9efea0233ab3c7aa942d672c7b63b52dbaf935",
+   "size": 260776,
+   "installed_size": 701440,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libperl5.36",
+   "version": "5.36.0-7+deb12u3",
+   "description": "shared Perl library",
+   "license": "",
+   "homepage": "http://dev.perl.org/perl5/",
+   "deps": [
+    "libbz2-1.0",
+    "libc6",
+    "libcrypt1",
+    "libdb5.3",
+    "libgdbm-compat4",
+    "libgdbm6",
+    "zlib1g",
+    "perl-modules-5.36"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libperl5.36_5.36.0-7+deb12u3_amd64.deb",
+   "sha256": "591903643119c7e1735011369287976eccab1d79b1d2f210760e2138d0a3aa46",
+   "size": 4195924,
+   "installed_size": 29556736,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpixman-1-0",
+   "version": "0.42.2-1",
+   "description": "pixel-manipulation library for X and cairo",
+   "license": "",
+   "homepage": "http://pixman.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpixman-1-0_0.42.2-1_amd64.deb",
+   "sha256": "9ed75ef81b6b1eba9e1357f8b0ce01d31112b0e07b2b685bee2cf627a8932892",
+   "size": 545588,
+   "installed_size": 1026048,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libpng16-16",
+   "version": "1.6.39-2+deb12u5",
+   "description": "PNG library - runtime (version 1.6)",
+   "license": "",
+   "homepage": "http://libpng.org/pub/png/libpng.html",
+   "deps": [
+    "libc6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpng16-16_1.6.39-2+deb12u5_amd64.deb",
+   "sha256": "a56d64bfaa9da12aafb83347909e62e6fd5fd251e6b34c194065911a30359978",
+   "size": 276660,
+   "installed_size": 427008,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libproc2-0",
+   "version": "2:4.0.2-3",
+   "description": "library for accessing process information from /proc",
+   "license": "",
+   "homepage": "https://gitlab.com/procps-ng/procps",
+   "deps": [
+    "libc6",
+    "libsystemd0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libproc2-0_4.0.2-3_amd64.deb",
+   "sha256": "e82ba5d01929eafb8b9954606a3c38b0332a987c2b3432388b4ee7365e54deae",
+   "size": 62804,
+   "installed_size": 237568,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libseccomp2",
+   "version": "2.5.4-1+deb12u1",
+   "description": "high level interface to Linux seccomp filter",
+   "license": "",
+   "homepage": "https://github.com/seccomp/libseccomp",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libseccomp2_2.5.4-1+deb12u1_amd64.deb",
+   "sha256": "108fe67957ca7cf9ba51d801118a1b37d404bea7b6e365025cd00779e9eca38d",
+   "size": 46808,
+   "installed_size": 151552,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libselinux1",
+   "version": "3.4-1+b6",
+   "description": "SELinux runtime shared libraries",
+   "license": "",
+   "homepage": "https://selinuxproject.org",
+   "deps": [
+    "libc6",
+    "libpcre2-8-0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libselinux1_3.4-1+b6_amd64.deb",
+   "sha256": "2b07f5287b9105f40158b56e4d70cc1652dac56a408f3507b4ab3d061eed425f",
+   "size": 73720,
+   "installed_size": 203776,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsemanage-common",
+   "version": "3.4-1",
+   "description": "Common files for SELinux policy management libraries",
+   "license": "",
+   "homepage": "https://selinuxproject.org",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libsemanage-common_3.4-1_all.deb",
+   "sha256": "835f806c21ae25e39053bd3057051640341b0cf08e1db9746fd82e370d82fa30",
+   "size": 21632,
+   "installed_size": 37888,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsemanage2",
+   "version": "3.4-1+b5",
+   "description": "SELinux policy management library",
+   "license": "",
+   "homepage": "https://selinuxproject.org",
+   "deps": [
+    "libsemanage-common",
+    "libaudit1",
+    "libbz2-1.0",
+    "libc6",
+    "libselinux1",
+    "libsepol2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsemanage2_3.4-1+b5_amd64.deb",
+   "sha256": "fd36d0972866adde5a52269a309fcecd76a8e45e557dd0ecd33aa221cabc2a8c",
+   "size": 89884,
+   "installed_size": 304128,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsepol2",
+   "version": "3.4-2.1",
+   "description": "SELinux library for manipulating binary security policies",
+   "license": "",
+   "homepage": "https://selinuxproject.org",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsepol2_3.4-2.1_amd64.deb",
+   "sha256": "b998946bb9818a97b387a962826caae33bc7fdcb6d706b2782c0470510be6b48",
+   "size": 275900,
+   "installed_size": 793600,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsmartcols1",
+   "version": "2.38.1-5+deb12u3",
+   "description": "smart column output alignment library",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsmartcols1_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "84088c6895fc07538fc51624899f3f71835188e0d38ebc3812097ac13da523b0",
+   "size": 106776,
+   "installed_size": 295936,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsqlite3-0",
+   "version": "3.40.1-2+deb12u2",
+   "description": "SQLite 3 shared library",
+   "license": "",
+   "homepage": "https://www.sqlite.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsqlite3-0_3.40.1-2+deb12u2_amd64.deb",
+   "sha256": "a8d78b40e9b4e422224aeebfe0e4dfc243f6acf3532490b0c05480d4283d41e2",
+   "size": 838808,
+   "installed_size": 1722368,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libssl3",
+   "version": "3.0.20-1~deb12u2",
+   "description": "Secure Sockets Layer toolkit - shared libraries",
+   "license": "",
+   "homepage": "https://www.openssl.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libssl3_3.0.20-1~deb12u2_amd64.deb",
+   "sha256": "89be24b41bff568ee6e7caf5680a3d808e80315ed92e407056ce0fa7a5bda025",
+   "size": 2036016,
+   "installed_size": 6174720,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libstdc++6",
+   "version": "12.2.0-14+deb12u1",
+   "description": "GNU Standard C++ Library v3",
+   "license": "",
+   "homepage": "http://gcc.gnu.org/",
+   "deps": [
+    "gcc-12-base",
+    "libc6",
+    "libgcc-s1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libstdc++6_12.2.0-14+deb12u1_amd64.deb",
+   "sha256": "5cd3171216d4ab0fc911cfe9c35509bf2dd8f47761c43b7f6a4296701551a24d",
+   "size": 612604,
+   "installed_size": 2750464,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsystemd-shared",
+   "version": "252.39-1~deb12u2",
+   "description": "systemd shared private library",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "libacl1",
+    "libapparmor1",
+    "libaudit1",
+    "libblkid1",
+    "libc6",
+    "libcap2",
+    "libcrypt1",
+    "libgcrypt20",
+    "libip4tc2",
+    "libkmod2",
+    "liblz4-1",
+    "liblzma5",
+    "libmount1",
+    "libpam0g",
+    "libseccomp2",
+    "libselinux1",
+    "libssl3",
+    "libzstd1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsystemd-shared_252.39-1~deb12u2_amd64.deb",
+   "sha256": "01458465c816b9eb63b92241869ddb46f332b8f498cf7a5979b84ec293cfdfda",
+   "size": 1696184,
+   "installed_size": 5478400,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libsystemd0",
+   "version": "252.39-1~deb12u2",
+   "description": "systemd utility library",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "libc6",
+    "libcap2",
+    "libgcrypt20",
+    "liblz4-1",
+    "liblzma5",
+    "libzstd1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsystemd0_252.39-1~deb12u2_amd64.deb",
+   "sha256": "013c07514a9e4933b2d5c098018695a6aa42d085dbc483ce2c094a954c8a1b0a",
+   "size": 332372,
+   "installed_size": 930816,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libtasn1-6",
+   "version": "4.19.0-2+deb12u1",
+   "description": "Manage ASN.1 structures (runtime)",
+   "license": "",
+   "homepage": "https://www.gnu.org/software/libtasn1/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libtasn1-6_4.19.0-2+deb12u1_amd64.deb",
+   "sha256": "2c27c613b69be248d09432839ea3d3382f6ee27fabaa65987aa2d884cd00afda",
+   "size": 48596,
+   "installed_size": 118784,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libtext-glob-perl",
+   "version": "0.11-3",
+   "description": "Perl module for matching globbing patterns against text",
+   "license": "",
+   "homepage": "https://metacpan.org/release/Text-Glob",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libtext-glob-perl_0.11-3_all.deb",
+   "sha256": "b0f1a40c5b26f4e4c83a4f8e1768fcf50ae9aac84b7f807ccb38123b50396f64",
+   "size": 7676,
+   "installed_size": 22528,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libthai-data",
+   "version": "0.1.29-1",
+   "description": "Data files for Thai language support library",
+   "license": "",
+   "homepage": "https://linux.thai.net/projects/libthai",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libthai-data_0.1.29-1_all.deb",
+   "sha256": "eed65a75269411e47d7b393d82bc30471da5c499e9f311abbfd8c54ca1a42d9e",
+   "size": 176200,
+   "installed_size": 641024,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libthai0",
+   "version": "0.1.29-1",
+   "description": "Thai language support library",
+   "license": "",
+   "homepage": "https://linux.thai.net/projects/libthai",
+   "deps": [
+    "libthai-data",
+    "libc6",
+    "libdatrie1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libthai0_0.1.29-1_amd64.deb",
+   "sha256": "37cd66bef851ea0e4af807797ba3ad14d43226f7c4954c1d0a19478e11815bae",
+   "size": 57468,
+   "installed_size": 101376,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libtiff6",
+   "version": "4.5.0-6+deb12u4",
+   "description": "Tag Image File Format (TIFF) library",
+   "license": "",
+   "homepage": "https://libtiff.gitlab.io/libtiff/",
+   "deps": [
+    "libc6",
+    "libdeflate0",
+    "libjbig0",
+    "libjpeg62-turbo",
+    "liblerc4",
+    "liblzma5",
+    "libwebp7",
+    "libzstd1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libtiff6_4.5.0-6+deb12u4_amd64.deb",
+   "sha256": "255cd1d9f204355c366638ee21756234a8d43c03a3de18a5af6cdd94765b5053",
+   "size": 316172,
+   "installed_size": 733184,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libtinfo6",
+   "version": "6.4-4",
+   "description": "shared low-level terminfo library for terminal handling",
+   "license": "",
+   "homepage": "https://invisible-island.net/ncurses/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libtinfo6_6.4-4_amd64.deb",
+   "sha256": "072d908f38f51090ca28ca5afa3b46b2957dc61fe35094c0b851426859a49a51",
+   "size": 331352,
+   "installed_size": 553984,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libudev1",
+   "version": "252.39-1~deb12u2",
+   "description": "libudev shared library",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libudev1_252.39-1~deb12u2_amd64.deb",
+   "sha256": "6f7e08f11c4809d2e5998c775f7b423ab5ec2ce0309494b4a2615037052245e2",
+   "size": 108880,
+   "installed_size": 245760,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libunistring2",
+   "version": "1.0-2",
+   "description": "Unicode string library for C",
+   "license": "",
+   "homepage": "https://www.gnu.org/software/libunistring/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libunistring2_1.0-2_amd64.deb",
+   "sha256": "d466bbfe011d764d793c1d9d777cad9c7cf65b938e11598f27408171ad95a951",
+   "size": 436708,
+   "installed_size": 1850368,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libuuid1",
+   "version": "2.38.1-5+deb12u3",
+   "description": "Universally Unique ID library",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libuuid1_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "5fff398321da62d28a842bcbabd193d72ae21724962c029dc32b1dc6b2deaeaf",
+   "size": 28784,
+   "installed_size": 80896,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libwayland-client0",
+   "version": "1.21.0-1",
+   "description": "wayland compositor infrastructure - client library",
+   "license": "",
+   "homepage": "https://wayland.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libffi8"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwayland-client0_1.21.0-1_amd64.deb",
+   "sha256": "1f002d028b8b79eec9847c636d8886d10dfe8c884cc2bebe18086b1391c5a28d",
+   "size": 28320,
+   "installed_size": 91136,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libwayland-cursor0",
+   "version": "1.21.0-1",
+   "description": "wayland compositor infrastructure - cursor library",
+   "license": "",
+   "homepage": "https://wayland.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libwayland-client0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwayland-cursor0_1.21.0-1_amd64.deb",
+   "sha256": "0b684467ec795024fcaae99ea4384959cc4052b2da5adec38c9b76dfed9bcf41",
+   "size": 14376,
+   "installed_size": 55296,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libwayland-egl1",
+   "version": "1.21.0-1",
+   "description": "wayland compositor infrastructure - EGL library",
+   "license": "",
+   "homepage": "https://wayland.freedesktop.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwayland-egl1_1.21.0-1_amd64.deb",
+   "sha256": "cb4225f0e15e00a3570d4cbc288c87ff477d73e741c3f1c5a6d47cf350d45378",
+   "size": 8640,
+   "installed_size": 33792,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libwayland-server0",
+   "version": "1.21.0-1",
+   "description": "wayland compositor infrastructure - server library",
+   "license": "",
+   "homepage": "https://wayland.freedesktop.org/",
+   "deps": [
+    "libc6",
+    "libffi8"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwayland-server0_1.21.0-1_amd64.deb",
+   "sha256": "df0396221d7b794496a687ec61fae82b6465648bc0ab6501ba0a5ed7f56eb8d6",
+   "size": 35876,
+   "installed_size": 113664,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libwebp7",
+   "version": "1.2.4-0.2+deb12u1",
+   "description": "Lossy compression of digital photographic images",
+   "license": "",
+   "homepage": "https://developers.google.com/speed/webp/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwebp7_1.2.4-0.2+deb12u1_amd64.deb",
+   "sha256": "7259b7ce46444694ce536360ad53acb68eb3b47a7ff81d7b1b8a3939b2ac9918",
+   "size": 285512,
+   "installed_size": 557056,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libx11-6",
+   "version": "2:1.8.4-2+deb12u2",
+   "description": "X11 client-side library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libxcb1",
+    "libx11-data"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libx11-6_1.8.4-2+deb12u2_amd64.deb",
+   "sha256": "d88c973e79fd9b65838d77624142952757e47a6eb1a58602acf0911cf35989f4",
+   "size": 759544,
+   "installed_size": 1599488,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libx11-data",
+   "version": "2:1.8.4-2+deb12u2",
+   "description": "X11 client-side library",
+   "license": "",
+   "homepage": "",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libx11-data_1.8.4-2+deb12u2_all.deb",
+   "sha256": "987a848aeb1c358e4186368871b0526f10bb14c6b53214ab3bf8b69abb830191",
+   "size": 291884,
+   "installed_size": 1614848,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxau6",
+   "version": "1:1.0.9-1",
+   "description": "X11 authorisation library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxau6_1.0.9-1_amd64.deb",
+   "sha256": "679db1c4579ec7c61079adeaae8528adeb2e4bf5465baa6c56233b995d714750",
+   "size": 19720,
+   "installed_size": 43008,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxcb-render0",
+   "version": "1.15-1",
+   "description": "X C Binding, render extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-render0_1.15-1_amd64.deb",
+   "sha256": "29c32cc76be9393f409378be79a0f534b9f07dea06ae52fa80a7f27e298de239",
+   "size": 115012,
+   "installed_size": 180224,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxcb-shm0",
+   "version": "1.15-1",
+   "description": "X C Binding, shm extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-shm0_1.15-1_amd64.deb",
+   "sha256": "c1afcef29dc78b95c475159b181b28b1dedaf1d5aa06efd2fa6d90c73bfbe0e5",
+   "size": 105472,
+   "installed_size": 129024,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxcb1",
+   "version": "1.15-1",
+   "description": "X C Binding",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxau6",
+    "libxdmcp6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb1_1.15-1_amd64.deb",
+   "sha256": "fdc61332a3892168f3cc9cfa1fe9cf11a91dc3e0acacbc47cbc50ebaa234cc71",
+   "size": 144052,
+   "installed_size": 303104,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxcomposite1",
+   "version": "1:0.4.5-1",
+   "description": "X11 Composite extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcomposite1_0.4.5-1_amd64.deb",
+   "sha256": "4c26ebf519d2ebc22fc1416dee45e12c4c4ef68aa9b2ed890356830df42b652a",
+   "size": 16608,
+   "installed_size": 40960,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxcursor1",
+   "version": "1:1.2.1-1",
+   "description": "X cursor management library",
+   "license": "",
+   "homepage": "https://www.x.org",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxfixes3",
+    "libxrender1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcursor1_1.2.1-1_amd64.deb",
+   "sha256": "49e167048661be4c614fff81429e9eaef38e54ef1d2150a5d2a8c53919217529",
+   "size": 40904,
+   "installed_size": 84992,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxdamage1",
+   "version": "1:1.1.6-1",
+   "description": "X11 damaged region extension library",
+   "license": "",
+   "homepage": "https://www.x.org",
+   "deps": [
+    "libc6",
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxdamage1_1.1.6-1_amd64.deb",
+   "sha256": "fcdf7e4c29b307ba8711c864e1e646d76315a8f55121198143653e56592fa8a7",
+   "size": 15144,
+   "installed_size": 38912,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxdmcp6",
+   "version": "1:1.1.2-3",
+   "description": "X11 Display Manager Control Protocol library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libbsd0",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxdmcp6_1.1.2-3_amd64.deb",
+   "sha256": "ecb8536f5fb34543b55bb9dc5f5b14c9dbb4150a7bddb3f2287b7cab6e9d25ef",
+   "size": 26344,
+   "installed_size": 54272,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxext6",
+   "version": "2:1.3.4-1+b1",
+   "description": "X11 miscellaneous extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxext6_1.3.4-1+b1_amd64.deb",
+   "sha256": "504b7be9d7df4f6f4519e8dd4d6f9d03a9fb911a78530fa23a692fba3058cba6",
+   "size": 52932,
+   "installed_size": 135168,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxfixes3",
+   "version": "1:6.0.0-2",
+   "description": "X11 miscellaneous 'fixes' extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxfixes3_6.0.0-2_amd64.deb",
+   "sha256": "1cd616396ff2ecae77e6e8b5b7695d414f0146de2d147837a2a02165f99e1a2c",
+   "size": 22684,
+   "installed_size": 58368,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxi6",
+   "version": "2:1.8-1+b1",
+   "description": "X11 Input extension library",
+   "license": "",
+   "homepage": "https://www.x.org/",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxi6_1.8-1+b1_amd64.deb",
+   "sha256": "6c2fb5f241b311788990122c6e693915867cd8ed9d6da2e3524aec7ed3cdb4c0",
+   "size": 84208,
+   "installed_size": 152576,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxinerama1",
+   "version": "2:1.1.4-3",
+   "description": "X11 Xinerama extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxinerama1_1.1.4-3_amd64.deb",
+   "sha256": "8dde8f74d2fc001f306fb1295a86850145e93191d35c983c7f52eb21b0a7f8cb",
+   "size": 17820,
+   "installed_size": 48128,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxkbcommon0",
+   "version": "1.5.0-1",
+   "description": "library interface to the XKB compiler - shared library",
+   "license": "",
+   "homepage": "http://www.xkbcommon.org/",
+   "deps": [
+    "xkb-data",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxkbcommon0_1.5.0-1_amd64.deb",
+   "sha256": "e3fe045b9a33a101de1c5a912a4a10928db055c3f68930f47eccbb44d7c7d54e",
+   "size": 106108,
+   "installed_size": 303104,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxml2",
+   "version": "2.9.14+dfsg-1.3~deb12u6",
+   "description": "GNOME XML library",
+   "license": "",
+   "homepage": "http://xmlsoft.org",
+   "deps": [
+    "libc6",
+    "libicu72",
+    "liblzma5",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxml2_2.9.14+dfsg-1.3~deb12u6_amd64.deb",
+   "sha256": "4460e39dda10a815881374217cde08474747cfa018358cd8612c14b390eff53b",
+   "size": 688760,
+   "installed_size": 1911808,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxrandr2",
+   "version": "2:1.5.2-2+b1",
+   "description": "X11 RandR extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6",
+    "libxrender1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxrandr2_1.5.2-2+b1_amd64.deb",
+   "sha256": "e2e10b672085ddf1d294cd689ed21bde5899325fd13626c2614b7d7b2d49a808",
+   "size": 39240,
+   "installed_size": 90112,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libxrender1",
+   "version": "1:0.9.10-1.1",
+   "description": "X Rendering Extension client library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxrender1_0.9.10-1.1_amd64.deb",
+   "sha256": "b2a6d160578f359220101947c8d67059b44704a251e688de1d0b744fefedfd1a",
+   "size": 33228,
+   "installed_size": 79872,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "libzstd1",
+   "version": "1.5.4+dfsg2-5",
+   "description": "fast lossless compression algorithm",
+   "license": "",
+   "homepage": "https://github.com/facebook/zstd",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libzstd1_1.5.4+dfsg2-5_amd64.deb",
+   "sha256": "6315b5ac38b724a710fb96bf1042019398cb656718b1522279a5185ed39318fa",
+   "size": 290036,
+   "installed_size": 803840,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "mount",
+   "version": "2.38.1-5+deb12u3",
+   "description": "tools for mounting and manipulating filesystems",
+   "license": "",
+   "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+   "deps": [
+    "libblkid1",
+    "libc6",
+    "libmount1",
+    "libselinux1",
+    "libsmartcols1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "mount_2.38.1-5+deb12u3_amd64.deb",
+   "sha256": "e59c41b9d3a83ffd7355f18edfd2eaf5f408500e6a77eb04d4947219d6bbbeb9",
+   "size": 63632,
+   "installed_size": 402432,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "passwd",
+   "version": "1:4.13+dfsg1-1+deb12u2",
+   "description": "change and administer password and group data",
+   "license": "",
+   "homepage": "https://github.com/shadow-maint/shadow",
+   "deps": [
+    "libaudit1",
+    "libc6",
+    "libcrypt1",
+    "libpam0g",
+    "libselinux1",
+    "libsemanage2",
+    "libpam-modules"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "passwd_4.13+dfsg1-1+deb12u2_amd64.deb",
+   "sha256": "7844f6502c62870a1228afec09c17d0b4a7229a0878c83a56b3004658faa1aef",
+   "size": 956096,
+   "installed_size": 2894848,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "perl",
+   "version": "5.36.0-7+deb12u3",
+   "description": "Larry Wall's Practical Extraction and Report Language",
+   "license": "",
+   "homepage": "http://dev.perl.org/perl5/",
+   "deps": [
+    "perl-base",
+    "perl-modules-5.36",
+    "libperl5.36",
+    "dpkg"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "perl_5.36.0-7+deb12u3_amd64.deb",
+   "sha256": "afa50ec7d9b1a407cd0187dae033644ef13578d4f3792435e0c41b962ffec0c4",
+   "size": 238900,
+   "installed_size": 686080,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "perl-base",
+   "version": "5.36.0-7+deb12u3",
+   "description": "minimal Perl system",
+   "license": "",
+   "homepage": "http://dev.perl.org/perl5/",
+   "deps": [
+    "libc6",
+    "libcrypt1",
+    "dpkg"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "perl-base_5.36.0-7+deb12u3_amd64.deb",
+   "sha256": "8ec874926e211807cde71e1b0a2311d2534ab3539dffcb2c8553633f542efc1a",
+   "size": 1607712,
+   "installed_size": 7822336,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "perl-modules-5.36",
+   "version": "5.36.0-7+deb12u3",
+   "description": "Core Perl modules",
+   "license": "",
+   "homepage": "http://dev.perl.org/perl5/",
+   "deps": [
+    "perl-base",
+    "dpkg"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "perl-modules-5.36_5.36.0-7+deb12u3_all.deb",
+   "sha256": "3d237ccb1ea32727b6573d43c67d78337aa928a81148d36cef54b369a07c240a",
+   "size": 2815332,
+   "installed_size": 18244608,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "procps",
+   "version": "2:4.0.2-3",
+   "description": "/proc file system utilities",
+   "license": "",
+   "homepage": "https://gitlab.com/procps-ng/procps",
+   "deps": [
+    "libc6",
+    "libncursesw6",
+    "libproc2-0",
+    "libtinfo6",
+    "init-system-helpers"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "procps_4.0.2-3_amd64.deb",
+   "sha256": "5a9f71089ee51e3e84d324a87e5953d571684b7e286a54effa71e6f3a19a626c",
+   "size": 595280,
+   "installed_size": 2141184,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "shared-mime-info",
+   "version": "2.2-1",
+   "description": "FreeDesktop.org shared MIME database and spec",
+   "license": "",
+   "homepage": "https://freedesktop.org/wiki/Software/shared-mime-info",
+   "deps": [
+    "libc6",
+    "libglib2.0-0",
+    "libxml2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "shared-mime-info_2.2-1_amd64.deb",
+   "sha256": "dd026add873483566faefebbd8779a1e5e14ab2e44682ebfe238c3828a2b936b",
+   "size": 728896,
+   "installed_size": 5150720,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "systemd",
+   "version": "252.39-1~deb12u2",
+   "description": "system and service manager",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "libacl1",
+    "libaudit1",
+    "libblkid1",
+    "libcryptsetup12",
+    "libfdisk1",
+    "libkmod2",
+    "libp11-kit0",
+    "libseccomp2",
+    "libsystemd-shared",
+    "libsystemd0",
+    "mount",
+    "libc6",
+    "libcap2",
+    "libgcrypt20",
+    "liblz4-1",
+    "liblzma5",
+    "libmount1",
+    "libselinux1",
+    "libssl3",
+    "libzstd1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "systemd_252.39-1~deb12u2_amd64.deb",
+   "sha256": "286f879c537bfba92e59d580c075ad20ab49020244c79634656850a306dd462b",
+   "size": 3043940,
+   "installed_size": 9900032,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "systemd-sysv",
+   "version": "252.39-1~deb12u2",
+   "description": "system and service manager - SysV compatibility symlinks",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/systemd",
+   "deps": [
+    "systemd"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "systemd-sysv_252.39-1~deb12u2_amd64.deb",
+   "sha256": "3d0bc4027ac9a8cd50c88f8a6cd1cb21bede13bb72fc5d83705a2fcf86ccddd3",
+   "size": 42812,
+   "installed_size": 75776,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "tar",
+   "version": "1.34+dfsg-1.2+deb12u1",
+   "description": "GNU version of the tar archiving utility",
+   "license": "",
+   "homepage": "https://www.gnu.org/software/tar/",
+   "deps": [
+    "libacl1",
+    "libc6",
+    "libselinux1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "tar_1.34+dfsg-1.2+deb12u1_amd64.deb",
+   "sha256": "bc8ab4b81d1659885abf9eebce855ed481b05415008194275fe953146af180de",
+   "size": 640000,
+   "installed_size": 3219456,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "usrmerge",
+   "version": "37~deb12u1",
+   "description": "Convert the system to the merged /usr directories scheme",
+   "license": "",
+   "homepage": "https://wiki.debian.org/UsrMerge",
+   "deps": [
+    "perl",
+    "libfile-find-rule-perl"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "usrmerge_37~deb12u1_all.deb",
+   "sha256": "8a25318213244f075b56363408c87a519ed8cef24b270c3d045ef35d695de13a",
+   "size": 13336,
+   "installed_size": 40960,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "xkb-data",
+   "version": "2.35.1-1",
+   "description": "X Keyboard Extension (XKB) configuration data",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/Software/XKeyboardConfig",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "xkb-data_2.35.1-1_all.deb",
+   "sha256": "28a79c61b785f403da93af58c39aed13c022032935e3e54362c6707169cfe982",
+   "size": 763516,
+   "installed_size": 7091200,
+   "date": "2026-10-17T21:30:49Z"
+  },
+  {
+   "name": "zlib1g",
+   "version": "1:1.2.13.dfsg-1",
+   "description": "compression library - runtime",
+   "license": "",
+   "homepage": "http://zlib.net/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "zlib1g_1.2.13.dfsg-1_amd64.deb",
+   "sha256": "d7dd1d1411fedf27f5e27650a6eff20ef294077b568f4c8c5e51466dc7c08ce4",
+   "size": 86684,
+   "installed_size": 172032,
+   "date": "2026-10-17T21:30:49Z"
+  }
+ ]
+}

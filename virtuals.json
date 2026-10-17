@@ -1,0 +1,4 @@
+{
+ "default-dbus-session-bus": "dbus-user-session",
+ "default-dbus-system-bus": "dbus"
+}
