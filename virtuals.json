@@ -1,4 +1,6 @@
 {
  "default-dbus-session-bus": "dbus-user-session",
- "default-dbus-system-bus": "dbus"
+ "default-dbus-system-bus": "dbus",
+ "qtbase-abi-5-15-8": "libqt5core5a",
+ "qtdeclarative-abi-5-15-8": "libqt5qml5"
 }

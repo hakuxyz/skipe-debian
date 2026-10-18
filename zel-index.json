@@ -16,7 +16,7 @@
    "sha256": "7952686546e3ab7b774872eb290170fa4744a7a64a01dd9fcfb14f6caf24da4c",
    "size": 172424,
    "installed_size": 702464,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "adwaita-icon-theme",
@@ -34,7 +34,7 @@
    "sha256": "4b67610565d16b604d3efd9908e8e4b5d71873c5d0f9347433df509020f22af7",
    "size": 5124100,
    "installed_size": 21400576,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "at-spi2-common",
@@ -49,7 +49,7 @@
    "sha256": "441bc1c6cefdc01f519310abf55823deb868898480dee09a05aa44e8c83cabc2",
    "size": 161668,
    "installed_size": 1344512,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus",
@@ -73,7 +73,7 @@
    "sha256": "35932ffdc1ae80348e93c1263c504e62cae8a2a1476f1541ef63a9cc0a271ef9",
    "size": 97360,
    "installed_size": 186368,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus-bin",
@@ -91,7 +91,7 @@
    "sha256": "7273d6f5ddcafa6bc81e319997f60e9b511a92c4414c1d4ecb05cba9e755da57",
    "size": 105356,
    "installed_size": 218112,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus-daemon",
@@ -117,7 +117,7 @@
    "sha256": "d35e43de83f7df870196d292a60a56d320c47ce503bc586b30e47a192090302e",
    "size": 183656,
    "installed_size": 384000,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus-session-bus-common",
@@ -132,7 +132,7 @@
    "sha256": "b19cb8e3581d6b09ff3f46fee23de2813811353228c666c9d1ad885598062e43",
    "size": 78232,
    "installed_size": 109568,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus-system-bus-common",
@@ -149,7 +149,7 @@
    "sha256": "2111d3d0c98ac68ee973274058447e6fab1c359fec1d4bb195f5fcc5833a19e2",
    "size": 79344,
    "installed_size": 121856,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dbus-user-session",
@@ -169,7 +169,7 @@
    "sha256": "4c3aaad251f876214fadb5580dd5f4925f73838832135e6d1dab981eb963be6b",
    "size": 78136,
    "installed_size": 113664,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dconf-gsettings-backend",
@@ -189,7 +189,7 @@
    "sha256": "790a8ad2a229b378bbda7a0f32d9d8a522c986b08c556210c0514978ad88e356",
    "size": 27756,
    "installed_size": 86016,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dconf-service",
@@ -210,7 +210,7 @@
    "sha256": "2650490642fb7e66da94943d381cea277cb811e3a4aadb6386fcd402a8390759",
    "size": 31620,
    "installed_size": 110592,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "debconf",
@@ -225,7 +225,24 @@
    "sha256": "74ab14194a3762b2fc717917dcfda42929ab98e3c59295a063344dc551cd7cc8",
    "size": 121212,
    "installed_size": 502784,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
+  },
+  {
+   "name": "debianutils",
+   "version": "5.7-0.5~deb12u1",
+   "description": "Miscellaneous utilities specific to Debian",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "debianutils_5.7-0.5~deb12u1_amd64.deb",
+   "sha256": "9f536125c867aabdc2ab61e7e6e9065856ce3e7d609691406fad86765aaae365",
+   "size": 96724,
+   "installed_size": 248832,
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "discord",
@@ -267,7 +284,7 @@
    "sha256": "e7f346569784ef47eaa530c058d810bef686c7c063efcee6493d56d138f139cc",
    "size": 2168622,
    "installed_size": 4366336,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dmsetup",
@@ -285,7 +302,7 @@
    "sha256": "c73fc490b93c83550ed272de69ec96c5da30d4456b889f9e93c7fd8e53860b85",
    "size": 82040,
    "installed_size": 251904,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
   },
   {
    "name": "dpkg",
@@ -309,7 +326,55 @@
    "sha256": "0e6aafc0d2c9527143c82da02a634fcfa0b4a5f835cc6389f05cac81ae8c4ca4",
    "size": 1456592,
    "installed_size": 6562816,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:43Z"
+  },
+  {
+   "name": "firefox-esr",
+   "version": "140.12.0esr-1~deb12u1",
+   "description": "Mozilla Firefox web browser - Extended Support Release (ESR)",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libasound2",
+    "libatk1.0-0",
+    "libc6",
+    "libcairo-gobject2",
+    "libcairo2",
+    "libdbus-1-3",
+    "libevent-2.1-7",
+    "libffi8",
+    "libfontconfig1",
+    "libfreetype6",
+    "libgcc-s1",
+    "libgdk-pixbuf-2.0-0",
+    "libglib2.0-0",
+    "libgtk-3-0",
+    "libnspr4",
+    "libnss3",
+    "libpango-1.0-0",
+    "libstdc++6",
+    "libvpx7",
+    "libx11-6",
+    "libx11-xcb1",
+    "libxcb-shm0",
+    "libxcb1",
+    "libxcomposite1",
+    "libxdamage1",
+    "libxext6",
+    "libxfixes3",
+    "libxrandr2",
+    "zlib1g",
+    "fontconfig",
+    "procps",
+    "debianutils"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "firefox-esr_140.12.0esr-1~deb12u1_amd64.deb",
+   "sha256": "ce50b83e3cb81b0908346f555fabb679646baefe24a3270913347a9b52615647",
+   "size": 76234260,
+   "installed_size": 283807744,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "fontconfig",
@@ -329,7 +394,7 @@
    "sha256": "010e57c24a983eecc39aab8a84219a716c10901e03bacd1927331388656f890f",
    "size": 449212,
    "installed_size": 631808,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "fontconfig-config",
@@ -347,7 +412,7 @@
    "sha256": "281c66e46b95f045a0282a6c7a03b33de0e9a08d016897a759aaf4a04adfddbe",
    "size": 314864,
    "installed_size": 539648,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "fonts-dejavu-core",
@@ -362,7 +427,7 @@
    "sha256": "8892669e51aab4dc56682c8e39d8ddb7d70fad83c369344e1e240bf3ca22bb76",
    "size": 1067728,
    "installed_size": 3031040,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "gcc-12-base",
@@ -377,7 +442,7 @@
    "sha256": "1896a2aacf4ad681ff5eacc24a5b0ca4d5d9c9b9c9e4b6de5197bc1e116ea619",
    "size": 37596,
    "installed_size": 102400,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "gtk-update-icon-cache",
@@ -396,7 +461,7 @@
    "sha256": "6df214515e719d9099f6df89f4581abe34b63ea9237b76e93843e83226b2e9cb",
    "size": 44204,
    "installed_size": 128000,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "hicolor-icon-theme",
@@ -411,7 +476,7 @@
    "sha256": "20304d34b85a734ec1e4830badf3a3a70a5dc5f9c1afc0b2230ecd760c81b5e0",
    "size": 11396,
    "installed_size": 451584,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "init-system-helpers",
@@ -428,7 +493,26 @@
    "sha256": "afab482524c64e4e256eb5cab43c1a96dc493ec476d94f19f1a5ec3de5fa0fef",
    "size": 39020,
    "installed_size": 136192,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libabsl20220623",
+   "version": "20220623.1-1+deb12u2",
+   "description": "extensions to the C++ standard library",
+   "license": "",
+   "homepage": "https://abseil.io/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libabsl20220623_20220623.1-1+deb12u2_amd64.deb",
+   "sha256": "3fb1a98ff3a1b7b27cd3b2544e033af3bc3419d82f33bbe3f3d5faa07b400eb5",
+   "size": 390704,
+   "installed_size": 1958912,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libacl1",
@@ -445,7 +529,24 @@
    "sha256": "8be9df5795114bfe90e2be3d208ef47a5edd3fc7b3e20d387a597486d444e5e2",
    "size": 31488,
    "installed_size": 74752,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libaom3",
+   "version": "3.6.0-1+deb12u2",
+   "description": "AV1 Video Codec Library",
+   "license": "",
+   "homepage": "https://aomedia.googlesource.com/aom/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libaom3_3.6.0-1+deb12u2_amd64.deb",
+   "sha256": "33fd9b3af7c1bf65fd7e603d60f5034ac3bc0b4eefdabd8c33de8daff0e87205",
+   "size": 1850372,
+   "installed_size": 5679104,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libapparmor1",
@@ -462,7 +563,7 @@
    "sha256": "4b79f49eafc2017374da9ec206b5495433eadd2b1ea078c3895c99e72825e9d3",
    "size": 41192,
    "installed_size": 111616,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libargon2-1",
@@ -479,7 +580,7 @@
    "sha256": "4a8155b06270b88eed34d132acfc8ccc0b85499e1c4bfd7f31f8b199af42b1de",
    "size": 19432,
    "installed_size": 57344,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libasound2",
@@ -497,7 +598,7 @@
    "sha256": "44c77b076a7b11ae99712439022d822245b1994c435da564ebd320bb676faf4c",
    "size": 361788,
    "installed_size": 1188864,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libasound2-data",
@@ -512,7 +613,7 @@
    "sha256": "fe0780d2d3674b2977e0acb0d48b448ad72ba1642564b7dc537f55e839984c2d",
    "size": 20488,
    "installed_size": 204800,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libatk-bridge2.0-0",
@@ -533,7 +634,7 @@
    "sha256": "fbb07714fdd3fdee7b63fd8595053f4fa8021d8e350a5de6281c6ce7cd4f158f",
    "size": 64592,
    "installed_size": 280576,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libatk1.0-0",
@@ -552,7 +653,7 @@
    "sha256": "909dd661e03760a9ba1529bfc772f259cec8431999ee38b7c5521186237cdd98",
    "size": 49628,
    "installed_size": 204800,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libatomic1",
@@ -570,7 +671,7 @@
    "sha256": "fbd4e154a6b444229ea002cc209df099209c0adc09102e5fd21239a3d2b55e2d",
    "size": 9376,
    "installed_size": 46080,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libatspi2.0-0",
@@ -591,7 +692,7 @@
    "sha256": "1c0332f3b712a8e5ee56800bbcab83a8f92098874094f2b0bdfd6b7fd45e8b83",
    "size": 75404,
    "installed_size": 267264,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libaudit-common",
@@ -606,7 +707,7 @@
    "sha256": "17d0341ca6ce604ce59c296780ac2c2a24141a769823c50669af942c025e6591",
    "size": 10448,
    "installed_size": 22528,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libaudit1",
@@ -625,7 +726,7 @@
    "sha256": "30954df4b5a7c505661ba8ae5e6ea94f5805e408899fb400783bb166eb5ff306",
    "size": 46764,
    "installed_size": 153600,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libavahi-client3",
@@ -644,7 +745,7 @@
    "sha256": "a99d635f07a49cfbd24de151155c4f815a5adf867855e7ba13ecc3b25ffa52b9",
    "size": 45756,
    "installed_size": 119808,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libavahi-common-data",
@@ -659,7 +760,7 @@
    "sha256": "b21e33c3797c834e9a9ce0f1085e6d3f721db496d550505ab2f364d52097fe6f",
    "size": 107164,
    "installed_size": 755712,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libavahi-common3",
@@ -677,7 +778,114 @@
    "sha256": "0c12791afe1be09d8362161244d7a51e82a67a55f3909f4c29ee3dd424c3a5f1",
    "size": 42112,
    "installed_size": 96256,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libavcodec59",
+   "version": "7:5.1.9-0+deb12u1",
+   "description": "FFmpeg library with de/encoders for audio/video codecs - runtime files",
+   "license": "",
+   "homepage": "https://ffmpeg.org/",
+   "deps": [
+    "libaom3",
+    "libavutil57",
+    "libc6",
+    "libcairo2",
+    "libcodec2-1.0",
+    "libdav1d6",
+    "libglib2.0-0",
+    "libgsm1",
+    "libjxl0.7",
+    "liblzma5",
+    "libmfx1",
+    "libmp3lame0",
+    "libopenjp2-7",
+    "libopus0",
+    "librav1e0",
+    "librsvg2-2",
+    "libshine3",
+    "libsnappy1v5",
+    "libspeex1",
+    "libsvtav1enc1",
+    "libswresample4",
+    "libtheora0",
+    "libtwolame0",
+    "libva2",
+    "libvorbis0a",
+    "libvorbisenc2",
+    "libvpx7",
+    "libwebp7",
+    "libwebpmux3",
+    "libx264-164",
+    "libx265-199",
+    "libxvidcore4",
+    "libzvbi0",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavcodec59_5.1.9-0+deb12u1_amd64.deb",
+   "sha256": "a1c6cfeefe7437ad3ff999d3dad39edb9cfd4d2068a944243fa4f313470b59b1",
+   "size": 5229272,
+   "installed_size": 15053824,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libavformat59",
+   "version": "7:5.1.9-0+deb12u1",
+   "description": "FFmpeg library with (de)muxers for multimedia containers - runtime files",
+   "license": "",
+   "homepage": "https://ffmpeg.org/",
+   "deps": [
+    "libavcodec59",
+    "libavutil57",
+    "libbluray2",
+    "libbz2-1.0",
+    "libc6",
+    "libchromaprint1",
+    "libgme0",
+    "libgnutls30",
+    "libopenmpt0",
+    "librabbitmq4",
+    "librist4",
+    "libsrt1.5-gnutls",
+    "libssh-gcrypt-4",
+    "libxml2",
+    "libzmq5",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavformat59_5.1.9-0+deb12u1_amd64.deb",
+   "sha256": "35216a7786f2bde3c9c00ffa0574ed27c63cb231726aa03ae3664a36946ef01c",
+   "size": 1113960,
+   "installed_size": 2886656,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libavutil57",
+   "version": "7:5.1.9-0+deb12u1",
+   "description": "FFmpeg library with functions for simplifying programming - runtime files",
+   "license": "",
+   "homepage": "https://ffmpeg.org/",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libmfx1",
+    "libva-drm2",
+    "libva-x11-2",
+    "libva2",
+    "libvdpau1",
+    "libx11-6",
+    "ocl-icd-libopencl1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libavutil57_5.1.9-0+deb12u1_amd64.deb",
+   "sha256": "3e2c42d9e7235c96cb0329dbe3c13377faaa5aba81ac2d6f3cf54fcd978c9a5f",
+   "size": 372712,
+   "installed_size": 1055744,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libblkid1",
@@ -694,7 +902,28 @@
    "sha256": "5a083377f29191cafcdf0f91ec124349b4a7895b531556633a136e43c6d53943",
    "size": 147380,
    "installed_size": 407552,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libbluray2",
+   "version": "1:1.3.4-1",
+   "description": "Blu-ray disc playback support library (shared library)",
+   "license": "",
+   "homepage": "https://www.videolan.org/developers/libbluray.html",
+   "deps": [
+    "libc6",
+    "libfontconfig1",
+    "libfreetype6",
+    "libudfread0",
+    "libxml2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libbluray2_1.3.4-1_amd64.deb",
+   "sha256": "41781aa7af257a7c5083b2b9c4564e02a760361ce332dbc1313ffcf6a0958993",
+   "size": 137684,
+   "installed_size": 356352,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libbrotli1",
@@ -711,7 +940,7 @@
    "sha256": "563b4caec1aa5e876bd3355b36e7a38e1484baf5a293b48d1e8bd22db786e4d7",
    "size": 275248,
    "installed_size": 801792,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libbsd0",
@@ -729,7 +958,7 @@
    "sha256": "bb31cc8b40f962a85b2cec970f7f79cc704a1ae4bad24257a822055404b2c60b",
    "size": 117416,
    "installed_size": 206848,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libbz2-1.0",
@@ -746,7 +975,7 @@
    "sha256": "54149da3f44b22d523b26b692033b84503d822cc5122fed606ea69cc83ca5aeb",
    "size": 47348,
    "installed_size": 108544,
-   "date": "2026-10-17T21:30:48Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libc6",
@@ -763,7 +992,7 @@
    "sha256": "ba4f88f73dbc3ae9055f3c20f4523bfdbaf1ad13ff95e258924f77d20b4fbedf",
    "size": 2759320,
    "installed_size": 13313024,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcairo-gobject2",
@@ -781,7 +1010,7 @@
    "sha256": "5898b4c1093ff40bade7acb92affc4a5b5b76a1737cd41cfa2a09cdc2d864d4c",
    "size": 111752,
    "installed_size": 182272,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcairo2",
@@ -809,7 +1038,7 @@
    "sha256": "927fa059f8b5791d0cd744d4e3a8c57fa872ef849ce14434dc2222ac8a076a69",
    "size": 574676,
    "installed_size": 1338368,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcap-ng0",
@@ -826,7 +1055,7 @@
    "sha256": "b4b54769c77e4a71c8b33aee4d600ba28a9994a1c6f60d55d4ebe7fc44882e07",
    "size": 17068,
    "installed_size": 66560,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcap2",
@@ -843,7 +1072,62 @@
    "sha256": "8d684c673e7483802a5c447834b0df6fce006eb3a7109e1be412f5ad425bb24f",
    "size": 27708,
    "installed_size": 97280,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libchromaprint1",
+   "version": "1.5.1-2+b1",
+   "description": "audio fingerprint library",
+   "license": "",
+   "homepage": "https://acoustid.org/chromaprint",
+   "deps": [
+    "libavcodec59",
+    "libavutil57",
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libchromaprint1_1.5.1-2+b1_amd64.deb",
+   "sha256": "2008659c3790890782feaa531134c5b20d96f9ad4a71d519b9de4450ff704fa7",
+   "size": 40960,
+   "installed_size": 110592,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libcjson1",
+   "version": "1.7.15-1+deb12u4",
+   "description": "Ultralightweight JSON parser in ANSI C",
+   "license": "",
+   "homepage": "https://github.com/DaveGamble/cJSON",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcjson1_1.7.15-1+deb12u4_amd64.deb",
+   "sha256": "ae043c62e2740072f3c5cc0324ec36659331208f2155de74c89a24801627338c",
+   "size": 23180,
+   "installed_size": 61440,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libcodec2-1.0",
+   "version": "1.0.5-1",
+   "description": "Codec2 runtime library",
+   "license": "",
+   "homepage": "http://rowetel.com/codec2.html",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libcodec2-1.0_1.0.5-1_amd64.deb",
+   "sha256": "5f91673bc70e10496389d061a7f01f27f7f0d9090de56cce7ba21b9c461163d9",
+   "size": 8170904,
+   "installed_size": 16868352,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcolord2",
@@ -863,7 +1147,7 @@
    "sha256": "6e5a48b72ae316301103d642c8881cc06205cb4b5f54c25c467b2847048d268f",
    "size": 136572,
    "installed_size": 623616,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcom-err2",
@@ -880,7 +1164,7 @@
    "sha256": "a2bac7015e78fbc0c504df3e441f3a22292f1d2d77f9ccda760057f3690e22f2",
    "size": 20044,
    "installed_size": 56320,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcrypt1",
@@ -897,7 +1181,7 @@
    "sha256": "f5f60a5cdfd4e4eaa9438ade5078a57741a7a78d659fcb0c701204f523e8bd29",
    "size": 89464,
    "installed_size": 238592,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcryptsetup12",
@@ -920,7 +1204,7 @@
    "sha256": "b9a607c219be5ef04bc0fcfaec3752d9a1ba07df8d3bb2aed9bf348f90d1b6cc",
    "size": 223344,
    "installed_size": 576512,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libcups2",
@@ -942,7 +1226,7 @@
    "sha256": "8dbfd3b7cd81166a2d79bb7e3898b0203fec05c7e927f60e207122a1e36b95c8",
    "size": 245180,
    "installed_size": 691200,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdatrie1",
@@ -959,7 +1243,24 @@
    "sha256": "f021f193384929989b2dfd19f606a8cebe54b5f209fe387fc40683e810e01ebe",
    "size": 43320,
    "installed_size": 83968,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdav1d6",
+   "version": "1.0.0-2+deb12u1",
+   "description": "fast and small AV1 video stream decoder (shared library)",
+   "license": "",
+   "homepage": "https://www.videolan.org/projects/dav1d.html",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdav1d6_1.0.0-2+deb12u1_amd64.deb",
+   "sha256": "197f08108242177aeae4c04aac11825c39b7d18598191ab769f910687ccb387f",
+   "size": 513432,
+   "installed_size": 1654784,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdb5.3",
@@ -976,7 +1277,7 @@
    "sha256": "7dc5127b8dd0da80e992ba594954c005ae4359d839a24eb65d0d8129b5235c84",
    "size": 697412,
    "installed_size": 1876992,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdbus-1-3",
@@ -994,7 +1295,7 @@
    "sha256": "18ee0ce5fab9f7b671e87da1e9fa18660e36e04a3402f24bdb8635e0ba1d35f6",
    "size": 201240,
    "installed_size": 479232,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdconf1",
@@ -1012,7 +1313,7 @@
    "sha256": "d438bb2e3b5afaee2a90bb3fb541dcd2e47eefbc43994b5d0461c18648741e36",
    "size": 40908,
    "installed_size": 114688,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdeflate0",
@@ -1029,7 +1330,7 @@
    "sha256": "3d4b39f94317b64a860db8a7a8b581b555124cd461fe07ec0d347edbdb9f6683",
    "size": 61416,
    "installed_size": 164864,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdevmapper1.02.1",
@@ -1049,7 +1350,44 @@
    "sha256": "aaa78ca236055fedccf637eacf7bda02bf1980b2db668dccd202b04d0d2cfe04",
    "size": 132796,
    "installed_size": 485376,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdouble-conversion3",
+   "version": "3.2.1-1",
+   "description": "routines to convert IEEE floats to and from strings",
+   "license": "",
+   "homepage": "https://github.com/google/double-conversion",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdouble-conversion3_3.2.1-1_amd64.deb",
+   "sha256": "802b880ed900e4a8d54bab77b7551a7f3408b04891c3e5650fdc2368cc1fbc0a",
+   "size": 41460,
+   "installed_size": 106496,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdrm-amdgpu1",
+   "version": "2.4.114-1+b1",
+   "description": "Userspace interface to amdgpu-specific kernel DRM services -- runtime",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [
+    "libc6",
+    "libdrm2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdrm-amdgpu1_2.4.114-1+b1_amd64.deb",
+   "sha256": "b75a71e96f1faac0f131ac657e09efcbe8968eef62cc34b8abfcff2ff9f0cccd",
+   "size": 20864,
+   "installed_size": 77824,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdrm-common",
@@ -1064,7 +1402,62 @@
    "sha256": "32f9664138b38b224383c6986457d5ad2ec8efd559b1a0ce7749405f7a451aad",
    "size": 7112,
    "installed_size": 43008,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdrm-intel1",
+   "version": "2.4.114-1+b1",
+   "description": "Userspace interface to intel-specific kernel DRM services -- runtime",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libpciaccess0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdrm-intel1_2.4.114-1+b1_amd64.deb",
+   "sha256": "b0e39318d14c07f4d85668b6da7f66a1341addf87a47d785c34d5a8b393f544c",
+   "size": 64032,
+   "installed_size": 182272,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdrm-nouveau2",
+   "version": "2.4.114-1+b1",
+   "description": "Userspace interface to nouveau-specific kernel DRM services -- runtime",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [
+    "libc6",
+    "libdrm2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdrm-nouveau2_2.4.114-1+b1_amd64.deb",
+   "sha256": "ba59bb9ec6e1baf59fc4d4eb095a524e40d045af2413dad9d28df517005388b6",
+   "size": 19064,
+   "installed_size": 75776,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libdrm-radeon1",
+   "version": "2.4.114-1+b1",
+   "description": "Userspace interface to radeon-specific kernel DRM services -- runtime",
+   "license": "",
+   "homepage": "https://cgit.freedesktop.org/mesa/drm/",
+   "deps": [
+    "libc6",
+    "libdrm2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libdrm-radeon1_2.4.114-1+b1_amd64.deb",
+   "sha256": "2da3a9233187f995ad5a3e6db3d37252ea7209f0ca9605484d03478ebcc15feb",
+   "size": 21848,
+   "installed_size": 84992,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libdrm2",
@@ -1082,7 +1475,96 @@
    "sha256": "be18fb670797ba32da9628cf3e8acd83160d8db8c8dd842501dd8e401c3b5371",
    "size": 37472,
    "installed_size": 123904,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libedit2",
+   "version": "3.1-20221030-2",
+   "description": "BSD editline and history libraries",
+   "license": "",
+   "homepage": "https://www.thrysoee.dk/editline/",
+   "deps": [
+    "libbsd0",
+    "libc6",
+    "libtinfo6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libedit2_3.1-20221030-2_amd64.deb",
+   "sha256": "1cf14abf2716d3279db12d0657a5737cf70074a1e71d3bdf73206625e3c89ce6",
+   "size": 92992,
+   "installed_size": 264192,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libegl-mesa0",
+   "version": "22.3.6-1+deb12u2",
+   "description": "free implementation of the EGL API -- Mesa vendor library",
+   "license": "",
+   "homepage": "https://mesa3d.org/",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libexpat1",
+    "libgbm1",
+    "libgcc-s1",
+    "libglapi-mesa",
+    "libwayland-client0",
+    "libwayland-server0",
+    "libx11-xcb1",
+    "libxcb-dri2-0",
+    "libxcb-dri3-0",
+    "libxcb-present0",
+    "libxcb-randr0",
+    "libxcb-sync1",
+    "libxcb-xfixes0",
+    "libxcb1",
+    "libxshmfence1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libegl-mesa0_22.3.6-1+deb12u2_amd64.deb",
+   "sha256": "731a406af777d0606dc932da21c2214f189069caa437b8bb4063c328bab840ca",
+   "size": 114116,
+   "installed_size": 331776,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libegl1",
+   "version": "1.6.0-1",
+   "description": "Vendor neutral GL dispatch library -- EGL support",
+   "license": "",
+   "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+   "deps": [
+    "libc6",
+    "libglvnd0",
+    "libegl-mesa0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libegl1_1.6.0-1_amd64.deb",
+   "sha256": "fe4d8b39f6e6fe1a32ab1efd85893553eaa9cf3866aa668ccf355f585b37d523",
+   "size": 33652,
+   "installed_size": 113664,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libelf1",
+   "version": "0.188-2.1",
+   "description": "library to read and write ELF files",
+   "license": "",
+   "homepage": "https://sourceware.org/elfutils/",
+   "deps": [
+    "libc6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libelf1_0.188-2.1_amd64.deb",
+   "sha256": "619add379c606b3ac6c1a175853b918e6939598a83d8ebadf3bdfd50d10b3c8c",
+   "size": 173796,
+   "installed_size": 1060864,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libepoxy0",
@@ -1099,7 +1581,41 @@
    "sha256": "050cbedc9c2a5cce976151c720a3817f2103a01e6ac255bdd6f2c6a7509b04c3",
    "size": 189092,
    "installed_size": 1388544,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libevdev2",
+   "version": "1.13.0+dfsg-1",
+   "description": "wrapper library for evdev devices",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/libevdev/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libevdev2_1.13.0+dfsg-1_amd64.deb",
+   "sha256": "418b3a0eccd3efbab2be4f3e8e97e3a2523af420241ac5ce0ba8519c8c2424c2",
+   "size": 33968,
+   "installed_size": 143360,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libevent-2.1-7",
+   "version": "2.1.12-stable-8",
+   "description": "Asynchronous event notification library",
+   "license": "",
+   "homepage": "https://libevent.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libevent-2.1-7_2.1.12-stable-8_amd64.deb",
+   "sha256": "ca8858a7095ade7776c9f73437812423a45ccd90de2079e8c34830d291df290f",
+   "size": 180376,
+   "installed_size": 445440,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libexpat1",
@@ -1116,7 +1632,7 @@
    "sha256": "2255e62fc22a86d2c544b8a3f516da9aee19383ad5742722ab4ce7f66a30dbc8",
    "size": 99888,
    "installed_size": 397312,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libfdisk1",
@@ -1135,7 +1651,7 @@
    "sha256": "8af145cff6ca72529f63e0bf6d9c68c8512387e67f64e66d00e36f72bed99160",
    "size": 193624,
    "installed_size": 545792,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libffi8",
@@ -1152,7 +1668,7 @@
    "sha256": "6d9f6c25c30efccce6d4bceaa48ea86c329a3432abb360a141f76ac223a4c34a",
    "size": 22856,
    "installed_size": 69632,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libfile-find-rule-perl",
@@ -1171,7 +1687,7 @@
    "sha256": "d941143c65e47eff192195ed1b8367d3d74e5a0de668fc5ae9d787383ec48c23",
    "size": 26736,
    "installed_size": 64512,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libfontconfig1",
@@ -1191,7 +1707,7 @@
    "sha256": "16ee38d374e064f534116dc442b086ef26f9831f1c0af7e5fb4fe4512e700649",
    "size": 385664,
    "installed_size": 592896,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libfreetype6",
@@ -1211,7 +1727,7 @@
    "sha256": "8043e479f73f29992d652e3f9dfe8b17f9780c7ea6330afe379ec5f9f188ac44",
    "size": 397736,
    "installed_size": 907264,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libfribidi0",
@@ -1228,7 +1744,7 @@
    "sha256": "87fce56627aab7b2968501d370aa3ed6d1c792119efa765e71a690bdfe570e62",
    "size": 64952,
    "installed_size": 176128,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgbm1",
@@ -1248,7 +1764,7 @@
    "sha256": "4323840f2b7b3e108990848529125d99c0956ae5a854c1e0568ed08c8faeaa2e",
    "size": 38132,
    "installed_size": 109568,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgcc-s1",
@@ -1266,7 +1782,7 @@
    "sha256": "3016e62cb4b7cd8038822870601f5ed131befe942774d0f745622cc77d8a88f7",
    "size": 49856,
    "installed_size": 143360,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgcrypt20",
@@ -1284,7 +1800,7 @@
    "sha256": "e7a56552139c693904a6f9712234c05fe918353273a7cbdb5e62f423ad71bb97",
    "size": 696204,
    "installed_size": 1630208,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgdbm-compat4",
@@ -1302,7 +1818,7 @@
    "sha256": "4af36a590b68d415a78d9238b932b6a4579f515ec8a8016597498acff5b515a4",
    "size": 48156,
    "installed_size": 71680,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgdbm6",
@@ -1319,7 +1835,7 @@
    "sha256": "95fe4a1336532450e67bd067892f46eaa484139919ea8d067a9ffcbf5a4bf883",
    "size": 72248,
    "installed_size": 132096,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgdk-pixbuf-2.0-0",
@@ -1342,7 +1858,7 @@
    "sha256": "19673127f2530deb7cf637c688a4e16384e6887627296e16b8169038928cadc3",
    "size": 138972,
    "installed_size": 488448,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgdk-pixbuf2.0-common",
@@ -1357,7 +1873,75 @@
    "sha256": "0f3df073ca7eed5564ea3faceff819d94932d924c56474f1e42799a8017a2d30",
    "size": 306756,
    "installed_size": 2576384,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgl1",
+   "version": "1.6.0-1",
+   "description": "Vendor neutral GL dispatch library -- legacy GL support",
+   "license": "",
+   "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+   "deps": [
+    "libc6",
+    "libglvnd0",
+    "libglx0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgl1_1.6.0-1_amd64.deb",
+   "sha256": "6f89b1702c48e9a2437bb3c1ffac8e1ab2d828fc28b3d14b2eecd4cc19b2c790",
+   "size": 88448,
+   "installed_size": 667648,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgl1-mesa-dri",
+   "version": "22.3.6-1+deb12u2",
+   "description": "free implementation of the OpenGL API -- DRI modules",
+   "license": "",
+   "homepage": "https://mesa3d.org/",
+   "deps": [
+    "libc6",
+    "libdrm-amdgpu1",
+    "libdrm-intel1",
+    "libdrm-nouveau2",
+    "libdrm-radeon1",
+    "libdrm2",
+    "libelf1",
+    "libexpat1",
+    "libgcc-s1",
+    "libglapi-mesa",
+    "libllvm15",
+    "libsensors5",
+    "libstdc++6",
+    "libxcb-dri3-0",
+    "libzstd1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgl1-mesa-dri_22.3.6-1+deb12u2_amd64.deb",
+   "sha256": "350e4263aaacd521f6f757951262b57c003930edaf0419508f2c5675317577fe",
+   "size": 7239704,
+   "installed_size": 25860096,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libglapi-mesa",
+   "version": "22.3.6-1+deb12u2",
+   "description": "free implementation of the GL API -- shared library",
+   "license": "",
+   "homepage": "https://mesa3d.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglapi-mesa_22.3.6-1+deb12u2_amd64.deb",
+   "sha256": "2db5b13a6b7f4042f9a417ad7fa4338b6c47528dc64d7f89cfd5e53d07d76bc4",
+   "size": 35900,
+   "installed_size": 274432,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libglib2.0-0",
@@ -1379,7 +1963,121 @@
    "sha256": "7ff85197685d89e150e342b29a59aab1beee400050ba7da73de81cd999ffee5a",
    "size": 1403216,
    "installed_size": 4234240,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libglibmm-2.68-1",
+   "version": "2.74.0-2",
+   "description": "C++ wrapper for the GLib toolkit (shared libraries)",
+   "license": "",
+   "homepage": "https://www.gtkmm.org/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libglib2.0-0",
+    "libsigc++-3.0-0",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglibmm-2.68-1_2.74.0-2_amd64.deb",
+   "sha256": "bae00bd10501c8126aecdd1542f336a3d92111e277bdbfba55d33331bc5a349e",
+   "size": 631384,
+   "installed_size": 3317760,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libglvnd0",
+   "version": "1.6.0-1",
+   "description": "Vendor neutral GL dispatch library",
+   "license": "",
+   "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglvnd0_1.6.0-1_amd64.deb",
+   "sha256": "b6da5b153dd62d8b5e5fbe25242db1fc05c068707c365db49abda8c2427c75f8",
+   "size": 51820,
+   "installed_size": 745472,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libglx-mesa0",
+   "version": "22.3.6-1+deb12u2",
+   "description": "free implementation of the OpenGL API -- GLX vendor library",
+   "license": "",
+   "homepage": "https://mesa3d.org/",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libexpat1",
+    "libglapi-mesa",
+    "libx11-6",
+    "libx11-xcb1",
+    "libxcb-dri2-0",
+    "libxcb-dri3-0",
+    "libxcb-glx0",
+    "libxcb-present0",
+    "libxcb-randr0",
+    "libxcb-shm0",
+    "libxcb-sync1",
+    "libxcb-xfixes0",
+    "libxcb1",
+    "libxext6",
+    "libxfixes3",
+    "libxshmfence1",
+    "libxxf86vm1",
+    "libgl1-mesa-dri"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglx-mesa0_22.3.6-1+deb12u2_amd64.deb",
+   "sha256": "88e7ffa61f1a0a86c30736ad7657ab4774c9b711bbaff76cef0bd32ffb85ec90",
+   "size": 147676,
+   "installed_size": 530432,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libglx0",
+   "version": "1.6.0-1",
+   "description": "Vendor neutral GL dispatch library -- GLX support",
+   "license": "",
+   "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+   "deps": [
+    "libc6",
+    "libglvnd0",
+    "libx11-6",
+    "libglx-mesa0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libglx0_1.6.0-1_amd64.deb",
+   "sha256": "95f568df73dedf43ae66834a75502112e0d4f3ad7124f3dbfa790b739383b896",
+   "size": 34384,
+   "installed_size": 165888,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgme0",
+   "version": "0.6.3-6",
+   "description": "Playback library for video game music files - shared library",
+   "license": "",
+   "homepage": "https://bitbucket.org/mpyne/game-music-emu/wiki/Home",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgme0_0.6.3-6_amd64.deb",
+   "sha256": "3c6fc5488f702cc728ff25420cabd33688861de435e8a188aee6b75d8ed423bd",
+   "size": 129956,
+   "installed_size": 340992,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgmp10",
@@ -1396,7 +2094,7 @@
    "sha256": "187aedef2ed763f425c1e523753b9719677633c7eede660401739e9c893482bd",
    "size": 562588,
    "installed_size": 875520,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgnutls30",
@@ -1420,7 +2118,25 @@
    "sha256": "30abec8c824feb1d2d7e9000a34083cccd19d139625e1b21547e3ac53b922f8e",
    "size": 1409084,
    "installed_size": 3477504,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgomp1",
+   "version": "12.2.0-14+deb12u1",
+   "description": "GCC OpenMP (GOMP) support library",
+   "license": "",
+   "homepage": "http://gcc.gnu.org/",
+   "deps": [
+    "gcc-12-base",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgomp1_12.2.0-14+deb12u1_amd64.deb",
+   "sha256": "48fec46bda7f5b1638b9e959889bfbc20491247d402d120bb152687eb48143d7",
+   "size": 115772,
+   "installed_size": 319488,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgpg-error0",
@@ -1437,7 +2153,7 @@
    "sha256": "89944ee11d7370ce6ef46fc52f094c4a6512eff8943ec4c6ebefeae6360ceada",
    "size": 76888,
    "installed_size": 196608,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgraphite2-3",
@@ -1454,7 +2170,24 @@
    "sha256": "c19a7f6ba9298db7eef041ae27b08985f2c02009e418063f8bccdb5bc5e858dc",
    "size": 74564,
    "installed_size": 195584,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgsm1",
+   "version": "1.0.22-1",
+   "description": "Shared libraries for GSM speech compressor",
+   "license": "",
+   "homepage": "http://www.quut.com/gsm/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgsm1_1.0.22-1_amd64.deb",
+   "sha256": "1116dc3dbd0f5e7f6becebd5d5a9a9cbd40fc268f7a3e3f6863dd4a26627627a",
+   "size": 30940,
+   "installed_size": 94208,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgssapi-krb5-2",
@@ -1475,7 +2208,7 @@
    "sha256": "d8b87aea91b956b416c01a28c44ff6228315ae3b73de40acddac3dc5043607d2",
    "size": 135168,
    "installed_size": 435200,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgtk-3-0",
@@ -1524,7 +2257,7 @@
    "sha256": "0ff7375c98b5a8d6aafc6096b21d9f7bae4ecb581d31fce5d37be18f55b489a2",
    "size": 2846524,
    "installed_size": 10384384,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libgtk-3-common",
@@ -1541,7 +2274,26 @@
    "sha256": "f2642d127d85440acbfc2ed404d3932d8b2fbe8a576ead7f93f35ac1fa999c92",
    "size": 3895056,
    "installed_size": 27140096,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libgudev-1.0-0",
+   "version": "237-2",
+   "description": "GObject-based wrapper library for libudev",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/libgudev",
+   "deps": [
+    "libc6",
+    "libglib2.0-0",
+    "libudev1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libgudev-1.0-0_237-2_amd64.deb",
+   "sha256": "9fc37e3420d2704119bd1989d2f93d84321f1f678a3634e86bc857becd55983a",
+   "size": 15064,
+   "installed_size": 65536,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libharfbuzz0b",
@@ -1561,7 +2313,7 @@
    "sha256": "bfce132b7ee67b9c2d2166075b1936a25c8cc6866b6a049f99b8e94baa916e71",
    "size": 1945396,
    "installed_size": 2671616,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libhogweed6",
@@ -1580,7 +2332,64 @@
    "sha256": "ed8185c28b2cb519744a5a462dcd720d3b332c9b88a1d0002eac06dc8550cb94",
    "size": 327524,
    "installed_size": 474112,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libhunspell-1.7-0",
+   "version": "1.7.1-1",
+   "description": "spell checker and morphological analyzer (shared library)",
+   "license": "",
+   "homepage": "https://hunspell.github.io/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libhunspell-1.7-0_1.7.1-1_amd64.deb",
+   "sha256": "3c858f6fb27a1c73920115dfb05e06d88093c3ee889d33800fd93d111228094b",
+   "size": 192908,
+   "installed_size": 563200,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libhwy1",
+   "version": "1.0.3-3+deb12u1",
+   "description": "Efficient and performance-portable SIMD wrapper (runtime files)",
+   "license": "",
+   "homepage": "https://github.com/google/highway",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libhwy1_1.0.3-3+deb12u1_amd64.deb",
+   "sha256": "58db3098074f192d32784cf2d070f82d4e26b10d54bc723830a6b9a43be5013b",
+   "size": 347628,
+   "installed_size": 1667072,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libice6",
+   "version": "2:1.0.10-1",
+   "description": "X11 Inter-Client Exchange library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libbsd0",
+    "libc6",
+    "x11-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libice6_1.0.10-1_amd64.deb",
+   "sha256": "452796e565c9d42386bd59990000ae9c37d85e142e00ee2b14df0787e2bbf970",
+   "size": 58540,
+   "installed_size": 136192,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libicu72",
@@ -1599,7 +2408,7 @@
    "sha256": "f7f6f99c6d7b025914df2447fc93e11d22c44c0c8bdd8b6f36691c9e7ddcef88",
    "size": 9376124,
    "installed_size": 37038080,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libidn2-0",
@@ -1617,7 +2426,49 @@
    "sha256": "d50716d5824083d667427817d506b45d3f59dc77e1ca52de000f3f62d4918afa",
    "size": 123636,
    "installed_size": 449536,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libinput-bin",
+   "version": "1.22.1-1+deb12u1",
+   "description": "input device management and event handling library - udev quirks",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/libinput/",
+   "deps": [
+    "libc6",
+    "libevdev2",
+    "libudev1",
+    "libwacom9"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libinput-bin_1.22.1-1+deb12u1_amd64.deb",
+   "sha256": "b45d9aff353f2043757115aab8285a88608954946f0c91a185bd4c391b2999aa",
+   "size": 23564,
+   "installed_size": 143360,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libinput10",
+   "version": "1.22.1-1+deb12u1",
+   "description": "input device management and event handling library - shared library",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/libinput/",
+   "deps": [
+    "libc6",
+    "libevdev2",
+    "libmtdev1",
+    "libudev1",
+    "libwacom9",
+    "libinput-bin"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libinput10_1.22.1-1+deb12u1_amd64.deb",
+   "sha256": "7fa8af55ae83adfc115d080594dcc8b6de14c19c5d69b8d54f983047a201c698",
+   "size": 125120,
+   "installed_size": 378880,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libip4tc2",
@@ -1634,7 +2485,7 @@
    "sha256": "f2c48b367f9ec13f9aa577e7ccf81b371ce5d5fe22dddf9d7aa99f1e0bb7cfc4",
    "size": 19016,
    "installed_size": 67584,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libjbig0",
@@ -1651,7 +2502,7 @@
    "sha256": "6b07c77b700a615642888a82ba92a7e7c429d04b9c8669c62b2263f15c4c4059",
    "size": 31704,
    "installed_size": 86016,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libjpeg62-turbo",
@@ -1668,7 +2519,7 @@
    "sha256": "95ec30140789a342add8f8371ed018924de51b539056522b66f207b25cba9cad",
    "size": 166332,
    "installed_size": 693248,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libjson-c5",
@@ -1685,7 +2536,29 @@
    "sha256": "d0e1ed8637d1c26b9720f6057d6355f18378bba5cc2553e459d1632783c00d70",
    "size": 44120,
    "installed_size": 111616,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libjxl0.7",
+   "version": "0.7.0-10+deb12u1",
+   "description": "JPEG XL Image Coding System - \"JXL\" (shared libraries)",
+   "license": "",
+   "homepage": "https://github.com/libjxl/libjxl",
+   "deps": [
+    "libbrotli1",
+    "libc6",
+    "libgcc-s1",
+    "libhwy1",
+    "liblcms2-2",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libjxl0.7_0.7.0-10+deb12u1_amd64.deb",
+   "sha256": "19e747c8b509af924d5d2b1602e9eb68ff60a93576e07e0dfd55ca1f857fdf65",
+   "size": 1045736,
+   "installed_size": 3555328,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libk5crypto3",
@@ -1703,7 +2576,7 @@
    "sha256": "7b6e47d15c5c9cdcd456137533d8308aeba608a54cec73b28bd59bfc4b54cf06",
    "size": 79712,
    "installed_size": 267264,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libkeyutils1",
@@ -1720,7 +2593,46 @@
    "sha256": "cfac89e6a7a54ff3c6a4f843310e25efeddaa771baeae470bd98bd588c373563",
    "size": 8808,
    "installed_size": 40960,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libkf5coreaddons-data",
+   "version": "5.103.0-1",
+   "description": "KDE Frameworks 5 addons to QtCore - data files",
+   "license": "",
+   "homepage": "https://invent.kde.org/frameworks/kcoreaddons",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libkf5coreaddons-data_5.103.0-1_all.deb",
+   "sha256": "6f4768b1058b90550d2db406830a96174e782a9843a5ea8e308937e530688c6b",
+   "size": 132272,
+   "installed_size": 1112064,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libkf5coreaddons5",
+   "version": "5.103.0-1",
+   "description": "KDE Frameworks 5 addons to QtCore",
+   "license": "",
+   "homepage": "https://invent.kde.org/frameworks/kcoreaddons",
+   "deps": [
+    "libkf5coreaddons-data",
+    "shared-mime-info",
+    "libc6",
+    "libgcc-s1",
+    "libqt5core5a",
+    "libqt5dbus5",
+    "libstdc++6",
+    "libudev1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libkf5coreaddons5_5.103.0-1_amd64.deb",
+   "sha256": "21813ff362cef0e6990424607c635dc0b2a482306dca5447343012870b482a64",
+   "size": 270032,
+   "installed_size": 897024,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libkmod2",
@@ -1740,7 +2652,7 @@
    "sha256": "af63bbbfc15fbd1f254b15c393b3b95b18b18cc81348fc1b4f1c9c34b4d672d7",
    "size": 57892,
    "installed_size": 144384,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libkrb5-3",
@@ -1762,7 +2674,7 @@
    "sha256": "c90801be09701af221b54dd502a59cb378b7284ff31e480738baca317d2f7653",
    "size": 332280,
    "installed_size": 1102848,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libkrb5support0",
@@ -1779,7 +2691,7 @@
    "sha256": "8b9c05f2d8d461a10d657b118f572af5bf8fd6c8f93dcef81e852c5ab0f428ab",
    "size": 33212,
    "installed_size": 137216,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "liblcms2-2",
@@ -1796,7 +2708,7 @@
    "sha256": "333efe13d165b8a98194d95e72fd10b502ebbee4dc2eb43fc2ab83e2b53e5f17",
    "size": 153540,
    "installed_size": 438272,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "liblerc4",
@@ -1815,7 +2727,32 @@
    "sha256": "771f5c47ca69f24ca61e4be0c98c5912b182ce442f921697d17a472f3ded5c9c",
    "size": 170368,
    "installed_size": 664576,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libllvm15",
+   "version": "1:15.0.6-4+b1",
+   "description": "Modular compiler and toolchain technologies, runtime library",
+   "license": "",
+   "homepage": "https://www.llvm.org/",
+   "deps": [
+    "libc6",
+    "libedit2",
+    "libffi8",
+    "libgcc-s1",
+    "libstdc++6",
+    "libtinfo6",
+    "libxml2",
+    "libz3-4",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libllvm15_15.0.6-4+b1_amd64.deb",
+   "sha256": "9f0751109ba89e65b1313a4f3e34a29977a0db6fa30ed475e2c6bd555fa9e866",
+   "size": 23115156,
+   "installed_size": 117360640,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "liblz4-1",
@@ -1832,7 +2769,7 @@
    "sha256": "64cde86cef1deaf828bd60297839b59710b5cd8dc50efd4f12643caaee9389d3",
    "size": 62884,
    "installed_size": 173056,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "liblzma5",
@@ -1849,7 +2786,24 @@
    "sha256": "f96d8876b53ec89d76a992bc199679b818cf518225a768954d9451fb556a4eb7",
    "size": 205732,
    "installed_size": 340992,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmbedcrypto7",
+   "version": "2.28.3-1",
+   "description": "lightweight crypto and SSL/TLS library - crypto library",
+   "license": "",
+   "homepage": "https://www.trustedfirmware.org/projects/mbed-tls/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmbedcrypto7_2.28.3-1_amd64.deb",
+   "sha256": "af3295f80abf7e6ba2cba419134e29bde04192bf3614622ee53ce49de8d02abe",
+   "size": 277112,
+   "installed_size": 629760,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libmd0",
@@ -1866,7 +2820,82 @@
    "sha256": "03539fd30c509e27101d13a56e52eda9062bdf1aefe337c07ab56def25a13eab",
    "size": 29456,
    "installed_size": 80896,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmd4c0",
+   "version": "0.4.8-1",
+   "description": "Markdown for C",
+   "license": "",
+   "homepage": "https://github.com/mity/md4c",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmd4c0_0.4.8-1_amd64.deb",
+   "sha256": "ac234f1f12bec2ce96df7cc9bbd25f84426cb0c6b76cdf04afe165e9f820b4f4",
+   "size": 44248,
+   "installed_size": 109568,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmfx1",
+   "version": "22.5.4-1",
+   "description": "Intel Media SDK -- shared library",
+   "license": "",
+   "homepage": "https://github.com/Intel-Media-SDK/MediaSDK",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6",
+    "libva2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmfx1_22.5.4-1_amd64.deb",
+   "sha256": "19754c2ad5cf13015ebe8e1bd7fbc412ca410d810c036b167ba2b0d9bee36926",
+   "size": 3219328,
+   "installed_size": 28002304,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libminizip1",
+   "version": "1.1-8+deb12u1",
+   "description": "compression library - minizip library",
+   "license": "",
+   "homepage": "http://www.winimage.com/zLibDll/minizip.html",
+   "deps": [
+    "libc6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libminizip1_1.1-8+deb12u1_amd64.deb",
+   "sha256": "b2999b980cbb9e6dcaa2d5154c9d1f1b9d55f5a0ca8166699de7ab47afaf4a36",
+   "size": 20136,
+   "installed_size": 64512,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmng1",
+   "version": "1.0.10+dfsg-3.1+b5",
+   "description": "Multiple-image Network Graphics library",
+   "license": "",
+   "homepage": "http://www.libmng.com",
+   "deps": [
+    "libc6",
+    "libjpeg62-turbo",
+    "liblcms2-2",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmng1_1.0.10+dfsg-3.1+b5_amd64.deb",
+   "sha256": "05a5f45fe487d9eb673370b2113aec0ccf54b20cd56910306f3d9c874ffedbfc",
+   "size": 210638,
+   "installed_size": 672768,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libmount1",
@@ -1885,7 +2914,58 @@
    "sha256": "f46e2d6b006951825adde9757790b6609d7c66c7700f9b68f3db913eaac323c3",
    "size": 165732,
    "installed_size": 464896,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmp3lame0",
+   "version": "3.100-6",
+   "description": "MP3 encoding library",
+   "license": "",
+   "homepage": "https://lame.sourceforge.io/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmp3lame0_3.100-6_amd64.deb",
+   "sha256": "b1292c749172e7623547ecf684da57d3ec6ca22109f08b11bbb9e6be6e6beb95",
+   "size": 364932,
+   "installed_size": 557056,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmpg123-0",
+   "version": "1.31.2-1+deb12u1",
+   "description": "MPEG layer 1/2/3 audio decoder (shared library)",
+   "license": "",
+   "homepage": "http://mpg123.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmpg123-0_1.31.2-1+deb12u1_amd64.deb",
+   "sha256": "a10ad0d59995b859797a5f20d2833672051d0b2c7dab4c71f2e79258b2e3f631",
+   "size": 146980,
+   "installed_size": 398336,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libmtdev1",
+   "version": "1.1.6-1",
+   "description": "Multitouch Protocol Translation Library - shared library",
+   "license": "",
+   "homepage": "http://bitmath.org/code/mtdev/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libmtdev1_1.1.6-1_amd64.deb",
+   "sha256": "176590c0ce393dd492ecb5e21ed338f629e5f38074341860086dbf3315af514d",
+   "size": 22976,
+   "installed_size": 57344,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libncursesw6",
@@ -1903,7 +2983,7 @@
    "sha256": "98fa7a53dc565a38b65fb70422ad08001bf5361d8fbc74255280c329996a6bec",
    "size": 133824,
    "installed_size": 421888,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libnettle8",
@@ -1920,7 +3000,26 @@
    "sha256": "45922e6e289ffd92f0f92d2bb9159e84236ff202d552a461bf10e5335b3f0261",
    "size": 287764,
    "installed_size": 532480,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libnorm1",
+   "version": "1.5.9+dfsg-2",
+   "description": "NACK-Oriented Reliable Multicast (NORM) library",
+   "license": "",
+   "homepage": "https://www.nrl.navy.mil/itd/ncs/products/norm",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnorm1_1.5.9+dfsg-2_amd64.deb",
+   "sha256": "a6388c8d460e86c7b76b08e82ecb09894d1d9c53b488850fb39702af85b6d159",
+   "size": 220860,
+   "installed_size": 518144,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libnotify4",
@@ -1939,7 +3038,7 @@
    "sha256": "00faff691fcfc7df906fea00733493ef85197a0a478412dd355af269bc6e4b5e",
    "size": 30144,
    "installed_size": 81920,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libnspr4",
@@ -1956,7 +3055,7 @@
    "sha256": "6cca09767e94e4b5d2888ef31ad797bd3e7cec27fbbe98b49b10d4884746ce77",
    "size": 113108,
    "installed_size": 329728,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libnss3",
@@ -1975,7 +3074,24 @@
    "sha256": "bb4339de2e76be9862225447c6c24b9d759baba5ee861d86dfb558ebf4474d14",
    "size": 1332396,
    "installed_size": 4212736,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libnuma1",
+   "version": "2.0.16-1",
+   "description": "Libraries for controlling NUMA policy",
+   "license": "",
+   "homepage": "https://github.com/numactl/numactl",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libnuma1_2.0.16-1_amd64.deb",
+   "sha256": "639e1ab6bd66ead40db8a22c332d7199679fa22db261cac34444eb8eb4c17dda",
+   "size": 20964,
+   "installed_size": 72704,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libnumber-compare-perl",
@@ -1990,7 +3106,115 @@
    "sha256": "cf95662e27037d92c582647400bb1ca7a6dfd2eb26eee5b968b23263cd4976dc",
    "size": 6332,
    "installed_size": 19456,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libogg0",
+   "version": "1.3.5-3",
+   "description": "Ogg bitstream library",
+   "license": "",
+   "homepage": "https://xiph.org/ogg/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libogg0_1.3.5-3_amd64.deb",
+   "sha256": "f67acb0477aed0354f411172e37af338f3ac6bd4f3766134a2cf5539884b5a28",
+   "size": 23412,
+   "installed_size": 62464,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libopenal-data",
+   "version": "1:1.19.1-2",
+   "description": "Software implementation of the OpenAL audio API (data files)",
+   "license": "",
+   "homepage": "http://kcat.strangesoft.net/openal.html",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libopenal-data_1.19.1-2_all.deb",
+   "sha256": "695a650803f885459994bb921132d956c2b693759572005351a5b13773c754cd",
+   "size": 170228,
+   "installed_size": 211968,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libopenal1",
+   "version": "1:1.19.1-2",
+   "description": "Software implementation of the OpenAL audio API (shared library)",
+   "license": "",
+   "homepage": "http://kcat.strangesoft.net/openal.html",
+   "deps": [
+    "libopenal-data",
+    "libc6",
+    "libsndio7.0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libopenal1_1.19.1-2_amd64.deb",
+   "sha256": "b027d29d37786e4dacb21a7268e911566efb09f5a20facc66c57dd22a7c31e83",
+   "size": 500936,
+   "installed_size": 986112,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libopenjp2-7",
+   "version": "2.5.0-2+deb12u3",
+   "description": "JPEG 2000 image compression/decompression library",
+   "license": "",
+   "homepage": "https://www.openjpeg.org",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libopenjp2-7_2.5.0-2+deb12u3_amd64.deb",
+   "sha256": "a127e2f1741d66bdddb6393a718e3cbec327d53f88c89b859b1f8d73f64cf635",
+   "size": 189312,
+   "installed_size": 490496,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libopenmpt0",
+   "version": "0.6.9-1",
+   "description": "module music library based on OpenMPT -- shared library",
+   "license": "",
+   "homepage": "https://lib.openmpt.org/libopenmpt/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libmpg123-0",
+    "libstdc++6",
+    "libvorbis0a",
+    "libvorbisfile3",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libopenmpt0_0.6.9-1_amd64.deb",
+   "sha256": "69c1de4890044359551e4874b230f7ff8b0568687988582ba996d41af602d711",
+   "size": 693200,
+   "installed_size": 1997824,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libopus0",
+   "version": "1.3.1-3",
+   "description": "Opus codec runtime library",
+   "license": "",
+   "homepage": "http://www.opus-codec.org",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libopus0_1.3.1-3_amd64.deb",
+   "sha256": "c172e212f9039e741916aa8e12f3670d1e049dc0c16685325641288c2d83faa7",
+   "size": 195192,
+   "installed_size": 409600,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libp11-kit0",
@@ -2008,7 +3232,7 @@
    "sha256": "251330faddbf013f060fcdb41f4b0c037c8a6e89ba7c09b04bfcc4e3f0807b22",
    "size": 345080,
    "installed_size": 1441792,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpam-modules",
@@ -2032,7 +3256,7 @@
    "sha256": "19fb4838168e68bc15a5606070f14b1162bb34a3899686913f5d661f1707f483",
    "size": 291056,
    "installed_size": 1055744,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpam-modules-bin",
@@ -2053,7 +3277,7 @@
    "sha256": "e7b1f6c60a51398920c5da792016161a65bf1c7caaa64140dd2099176ed51280",
    "size": 75676,
    "installed_size": 232448,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpam-runtime",
@@ -2071,7 +3295,7 @@
    "sha256": "7a4f26d54c1e3ee8c68095f9d9013d13dd89a33ff78ef87330d21f21235fc278",
    "size": 160936,
    "installed_size": 897024,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpam-systemd",
@@ -2094,7 +3318,7 @@
    "sha256": "5629028998971da269a165cdbeb1c7606e9c37e58030217ae93f55233388be32",
    "size": 225520,
    "installed_size": 544768,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpam0g",
@@ -2113,7 +3337,7 @@
    "sha256": "a06f889caf9e97ccf04dedec0905573916bc6ec3366ade2c6ef8900047fd5cc1",
    "size": 92060,
    "installed_size": 220160,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpango-1.0-0",
@@ -2135,7 +3359,7 @@
    "sha256": "851720de07441ae6bb6a7f51fc0f2edb4db7aa6f25b5bf1bf7b72dcab8947b7f",
    "size": 211788,
    "installed_size": 532480,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpangocairo-1.0-0",
@@ -2158,7 +3382,7 @@
    "sha256": "96695f9cdd3bf346e3555cf0aa158e23a36114d6dec203b00ab4e93f1b77aab9",
    "size": 34184,
    "installed_size": 105472,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpangoft2-1.0-0",
@@ -2180,7 +3404,42 @@
    "sha256": "78da3f494109f6e7a39c4626aaae7571c600c5854cecda0bc0c902224986a63b",
    "size": 47384,
    "installed_size": 145408,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libpciaccess0",
+   "version": "0.17-2",
+   "description": "Generic PCI access library for X",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpciaccess0_0.17-2_amd64.deb",
+   "sha256": "4025f3608cf431c163efb94fdc553e7b93e16b8f0d741ea87762e19025ffc80e",
+   "size": 51384,
+   "installed_size": 94208,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libpcre2-16-0",
+   "version": "10.42-1",
+   "description": "New Perl Compatible Regular Expression Library - 16 bit runtime files",
+   "license": "",
+   "homepage": "https://pcre.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpcre2-16-0_10.42-1_amd64.deb",
+   "sha256": "53892097cf102ecd8f133ccd3f1f6be6f288c6ffeeeacf6ce081dfee15292675",
+   "size": 245032,
+   "installed_size": 647168,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpcre2-8-0",
@@ -2197,7 +3456,7 @@
    "sha256": "030db54f4d76cdfe2bf0e8eb5f9efea0233ab3c7aa942d672c7b63b52dbaf935",
    "size": 260776,
    "installed_size": 701440,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libperl5.36",
@@ -2221,7 +3480,24 @@
    "sha256": "591903643119c7e1735011369287976eccab1d79b1d2f210760e2138d0a3aa46",
    "size": 4195924,
    "installed_size": 29556736,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libpgm-5.3-0",
+   "version": "5.3.128~dfsg-2",
+   "description": "OpenPGM shared library",
+   "license": "",
+   "homepage": "https://github.com/steve-o/openpgm",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libpgm-5.3-0_5.3.128~dfsg-2_amd64.deb",
+   "sha256": "3f124acd98fb6d9d78dff583061736bcb738d102f3bd1e0afca4c0f0435534af",
+   "size": 160892,
+   "installed_size": 329728,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpixman-1-0",
@@ -2238,7 +3514,7 @@
    "sha256": "9ed75ef81b6b1eba9e1357f8b0ce01d31112b0e07b2b685bee2cf627a8932892",
    "size": 545588,
    "installed_size": 1026048,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libpng16-16",
@@ -2256,7 +3532,7 @@
    "sha256": "a56d64bfaa9da12aafb83347909e62e6fd5fd251e6b34c194065911a30359978",
    "size": 276660,
    "installed_size": 427008,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libproc2-0",
@@ -2274,7 +3550,408 @@
    "sha256": "e82ba5d01929eafb8b9954606a3c38b0332a987c2b3432388b4ee7365e54deae",
    "size": 62804,
    "installed_size": 237568,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqrcodegencpp1",
+   "version": "1.8.0-1.1",
+   "description": "QR Code generator library in multiple languages - C++ version",
+   "license": "",
+   "homepage": "https://github.com/nayuki/QR-Code-generator",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqrcodegencpp1_1.8.0-1.1_amd64.deb",
+   "sha256": "3e211cb230b74126b98497d6cd84248b9b993962163ed63617755608afe3680f",
+   "size": 25396,
+   "installed_size": 81920,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5core5a",
+   "version": "5.15.8+dfsg-11+deb12u3",
+   "description": "Qt 5 core module",
+   "license": "",
+   "homepage": "https://www.qt.io/developers/",
+   "deps": [
+    "shared-mime-info",
+    "libc6",
+    "libdouble-conversion3",
+    "libgcc-s1",
+    "libglib2.0-0",
+    "libicu72",
+    "libpcre2-16-0",
+    "libstdc++6",
+    "libzstd1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5core5a_5.15.8+dfsg-11+deb12u3_amd64.deb",
+   "sha256": "47e82f69aa0724f33d0873294d66664ef13fe09c0bffb0a1d84f2ad3e2dab58e",
+   "size": 1809748,
+   "installed_size": 6070272,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5dbus5",
+   "version": "5.15.8+dfsg-11+deb12u3",
+   "description": "Qt 5 D-Bus module",
+   "license": "",
+   "homepage": "https://www.qt.io/developers/",
+   "deps": [
+    "libc6",
+    "libdbus-1-3",
+    "libqt5core5a",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5dbus5_5.15.8+dfsg-11+deb12u3_amd64.deb",
+   "sha256": "1e3499746c85ed916c3374e273a2bc71274d42406360f865cbf92cfd714314f6",
+   "size": 211844,
+   "installed_size": 769024,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5gui5",
+   "version": "5.15.8+dfsg-11+deb12u3",
+   "description": "Qt 5 GUI module",
+   "license": "",
+   "homepage": "https://www.qt.io/developers/",
+   "deps": [
+    "fontconfig",
+    "libc6",
+    "libdrm2",
+    "libegl1",
+    "libfontconfig1",
+    "libfreetype6",
+    "libgbm1",
+    "libgcc-s1",
+    "libgl1",
+    "libglib2.0-0",
+    "libharfbuzz0b",
+    "libice6",
+    "libinput10",
+    "libjpeg62-turbo",
+    "libmd4c0",
+    "libmtdev1",
+    "libpng16-16",
+    "libqt5core5a",
+    "libqt5dbus5",
+    "libqt5network5",
+    "libsm6",
+    "libstdc++6",
+    "libudev1",
+    "libx11-6",
+    "libx11-xcb1",
+    "libxcb-glx0",
+    "libxcb-icccm4",
+    "libxcb-image0",
+    "libxcb-keysyms1",
+    "libxcb-randr0",
+    "libxcb-render-util0",
+    "libxcb-render0",
+    "libxcb-shape0",
+    "libxcb-shm0",
+    "libxcb-sync1",
+    "libxcb-xfixes0",
+    "libxcb-xinerama0",
+    "libxcb-xinput0",
+    "libxcb-xkb1",
+    "libxcb1",
+    "libxkbcommon-x11-0",
+    "libxkbcommon0",
+    "libxrender1",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5gui5_5.15.8+dfsg-11+deb12u3_amd64.deb",
+   "sha256": "b67011ee1822232564543d94f221584895fc03f536c4394d830ce7c8e0345f0c",
+   "size": 3407892,
+   "installed_size": 12868608,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5network5",
+   "version": "5.15.8+dfsg-11+deb12u3",
+   "description": "Qt 5 network module",
+   "license": "",
+   "homepage": "https://www.qt.io/developers/",
+   "deps": [
+    "libssl3",
+    "libc6",
+    "libgssapi-krb5-2",
+    "libqt5core5a",
+    "libqt5dbus5",
+    "libstdc++6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5network5_5.15.8+dfsg-11+deb12u3_amd64.deb",
+   "sha256": "6a27a617c0aca0bd9f49237594a7939910e78aaa223611ffd8e25fdc56a319a8",
+   "size": 675044,
+   "installed_size": 2544640,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5qml5",
+   "version": "5.15.8+dfsg-3",
+   "description": "Qt 5 QML module",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qmlapplications.html",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libqt5core5a",
+    "libqt5network5",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5qml5_5.15.8+dfsg-3_amd64.deb",
+   "sha256": "4032e1c201fbfc31d9c62f668605b4aaf51197c192e3d57c615027b08a35486a",
+   "size": 1356156,
+   "installed_size": 5070848,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5qmlmodels5",
+   "version": "5.15.8+dfsg-3",
+   "description": "Qt 5 QML Models library",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qmlapplications.html",
+   "deps": [
+    "libc6",
+    "libqt5core5a",
+    "libqt5qml5",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5qmlmodels5_5.15.8+dfsg-3_amd64.deb",
+   "sha256": "9acbb4e6ccc2d5acbc6b5118afbe9b13e370b0206f491613a0e69293f4e1484d",
+   "size": 189132,
+   "installed_size": 644096,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5quick5",
+   "version": "5.15.8+dfsg-3",
+   "description": "Qt 5 Quick library",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qmlapplications.html",
+   "deps": [
+    "libc6",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libqt5network5",
+    "libqt5qml5",
+    "libqt5qmlmodels5",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5quick5_5.15.8+dfsg-3_amd64.deb",
+   "sha256": "8e94a50c429bb732fc60dcf8d82686cbca9fd7a0f0b1a56a2e3b2cae1c11ada5",
+   "size": 1592444,
+   "installed_size": 6094848,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5quickwidgets5",
+   "version": "5.15.8+dfsg-3",
+   "description": "Qt 5 Quick Widgets library",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qmlapplications.html",
+   "deps": [
+    "libc6",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libqt5qml5",
+    "libqt5quick5",
+    "libqt5widgets5",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5quickwidgets5_5.15.8+dfsg-3_amd64.deb",
+   "sha256": "c8a3e829d9c4b244a56c79d2a4231105276a672bb5b44768d2c1b18fc938a0f8",
+   "size": 39428,
+   "installed_size": 153600,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5svg5",
+   "version": "5.15.8-3",
+   "description": "Qt 5 SVG module",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qtsvg-index.html",
+   "deps": [
+    "libc6",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libqt5widgets5",
+    "libstdc++6",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5svg5_5.15.8-3_amd64.deb",
+   "sha256": "7898f7b95314134aa96183bdd7aa89bb5c5367b913f42ac5162c2398db42a0c5",
+   "size": 134344,
+   "installed_size": 485376,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5waylandcompositor5",
+   "version": "5.15.8-2",
+   "description": "QtWayland compositor library",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/wayland-and-qt.html",
+   "deps": [
+    "libc6",
+    "libgl1",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libqt5qml5",
+    "libqt5quick5",
+    "libstdc++6",
+    "libwayland-server0",
+    "libxkbcommon0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5waylandcompositor5_5.15.8-2_amd64.deb",
+   "sha256": "743665dc2b3e12952faf53de830756c90ee52310307afc0629ed53edb971b96f",
+   "size": 354428,
+   "installed_size": 2000896,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libqt5widgets5",
+   "version": "5.15.8+dfsg-11+deb12u3",
+   "description": "Qt 5 widgets module",
+   "license": "",
+   "homepage": "https://www.qt.io/developers/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libqt5widgets5_5.15.8+dfsg-11+deb12u3_amd64.deb",
+   "sha256": "ea5d73c2935d0bd27d4da43572dabc95af9ffa0538bababd5eeb8f679e9eb335",
+   "size": 2379376,
+   "installed_size": 7610368,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "librabbitmq4",
+   "version": "0.11.0-1+deb12u2",
+   "description": "AMQP client library written in C",
+   "license": "",
+   "homepage": "https://github.com/alanxz/rabbitmq-c",
+   "deps": [
+    "libc6",
+    "libssl3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "librabbitmq4_0.11.0-1+deb12u2_amd64.deb",
+   "sha256": "7f76923e6e9eac01c69243d46d9e7a311e26a8e4c4e116ae50c0ec430077547b",
+   "size": 41508,
+   "installed_size": 126976,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "librav1e0",
+   "version": "0.5.1-6",
+   "description": "Fastest and safest AV1 encoder - shared library",
+   "license": "",
+   "homepage": "https://github.com/xiph/rav1e",
+   "deps": [
+    "libc6",
+    "libgcc-s1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "librav1e0_0.5.1-6_amd64.deb",
+   "sha256": "c266adb3545b0b8ff6450dbd09f85f19361bf5bc9290ddf2e869f040cb9725b7",
+   "size": 763348,
+   "installed_size": 2727936,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "librist4",
+   "version": "0.2.7+dfsg-1",
+   "description": "Reliable Internet Stream Transport -- shared library",
+   "license": "",
+   "homepage": "https://code.videolan.org/rist/librist",
+   "deps": [
+    "libc6",
+    "libcjson1",
+    "libmbedcrypto7"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "librist4_0.2.7+dfsg-1_amd64.deb",
+   "sha256": "dddb27f19810bc0bfe8e0d252e3a5c0dbf43bd7f2996756f42e2833bed6dbe5e",
+   "size": 73880,
+   "installed_size": 194560,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "librlottie0-1",
+   "version": "0.1+dfsg-4+deb12u2",
+   "description": "library for rendering vector based animations and art",
+   "license": "",
+   "homepage": "https://github.com/Samsung/rlottie",
+   "deps": [
+    "libc6",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "librlottie0-1_0.1+dfsg-4+deb12u2_amd64.deb",
+   "sha256": "d84ad3351becac6b287df3596669e1706dee6cbaeb200595de83ffe7963846cc",
+   "size": 167132,
+   "installed_size": 436224,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "librsvg2-2",
+   "version": "2.54.7+dfsg-1~deb12u1",
+   "description": "SAX-based renderer library for SVG files (runtime)",
+   "license": "",
+   "homepage": "https://wiki.gnome.org/Projects/LibRsvg",
+   "deps": [
+    "libc6",
+    "libcairo-gobject2",
+    "libcairo2",
+    "libgcc-s1",
+    "libgdk-pixbuf-2.0-0",
+    "libglib2.0-0",
+    "libpango-1.0-0",
+    "libpangocairo-1.0-0",
+    "libxml2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "librsvg2-2_2.54.7+dfsg-1~deb12u1_amd64.deb",
+   "sha256": "090f2ffbedb57727ee9b264e6ea6e66fe09773629739dd406931264b1bf14dc8",
+   "size": 2620240,
+   "installed_size": 11170816,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libseccomp2",
@@ -2291,7 +3968,7 @@
    "sha256": "108fe67957ca7cf9ba51d801118a1b37d404bea7b6e365025cd00779e9eca38d",
    "size": 46808,
    "installed_size": 151552,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libselinux1",
@@ -2309,7 +3986,7 @@
    "sha256": "2b07f5287b9105f40158b56e4d70cc1652dac56a408f3507b4ab3d061eed425f",
    "size": 73720,
    "installed_size": 203776,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsemanage-common",
@@ -2324,7 +4001,7 @@
    "sha256": "835f806c21ae25e39053bd3057051640341b0cf08e1db9746fd82e370d82fa30",
    "size": 21632,
    "installed_size": 37888,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsemanage2",
@@ -2346,7 +4023,40 @@
    "sha256": "fd36d0972866adde5a52269a309fcecd76a8e45e557dd0ecd33aa221cabc2a8c",
    "size": 89884,
    "installed_size": 304128,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsensors-config",
+   "version": "1:3.6.0-7.1",
+   "description": "lm-sensors configuration files",
+   "license": "",
+   "homepage": "https://hwmon.wiki.kernel.org/lm_sensors",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libsensors-config_3.6.0-7.1_all.deb",
+   "sha256": "7f3c9fbd822858a9e30335e4a7f66c9468962eb26cd375b93bc8b789660bf02f",
+   "size": 14252,
+   "installed_size": 33792,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsensors5",
+   "version": "1:3.6.0-7.1",
+   "description": "library to read temperature/voltage/fan sensors",
+   "license": "",
+   "homepage": "https://hwmon.wiki.kernel.org/lm_sensors",
+   "deps": [
+    "libsensors-config",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsensors5_3.6.0-7.1_amd64.deb",
+   "sha256": "b7eb91dce728fbb9203aec8b22637303b29821c3384e5f78a8ff348b4e44efe3",
+   "size": 34160,
+   "installed_size": 89088,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsepol2",
@@ -2363,7 +4073,62 @@
    "sha256": "b998946bb9818a97b387a962826caae33bc7fdcb6d706b2782c0470510be6b48",
    "size": 275900,
    "installed_size": 793600,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libshine3",
+   "version": "3.1.1-2",
+   "description": "Fixed-point MP3 encoding library - runtime files",
+   "license": "",
+   "homepage": "https://github.com/savonet/shine",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libshine3_3.1.1-2_amd64.deb",
+   "sha256": "6b09f0d577f515feffc071048218a26cdde5346d6e2661f861009897db0204d2",
+   "size": 23636,
+   "installed_size": 62464,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsigc++-3.0-0",
+   "version": "3.4.0-1",
+   "description": "type-safe Signal Framework for C++ - runtime",
+   "license": "",
+   "homepage": "https://libsigcplusplus.github.io/libsigcplusplus/",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsigc++-3.0-0_3.4.0-1_amd64.deb",
+   "sha256": "5514400f1f2b51a2768d9d0205860c101fe35448d5e34cce26a02da8c8e1a9b6",
+   "size": 28036,
+   "installed_size": 78848,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsm6",
+   "version": "2:1.2.3-1",
+   "description": "X11 Session Management library",
+   "license": "",
+   "homepage": "https://www.x.org",
+   "deps": [
+    "libc6",
+    "libice6",
+    "libuuid1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsm6_1.2.3-1_amd64.deb",
+   "sha256": "22a420890489023346f30fecef14ea900a0788e7bf959ef826aabb83944fccfb",
+   "size": 35108,
+   "installed_size": 74752,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsmartcols1",
@@ -2380,7 +4145,96 @@
    "sha256": "84088c6895fc07538fc51624899f3f71835188e0d38ebc3812097ac13da523b0",
    "size": 106776,
    "installed_size": 295936,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsnappy1v5",
+   "version": "1.1.9-3",
+   "description": "fast compression/decompression library",
+   "license": "",
+   "homepage": "https://google.github.io/snappy/",
+   "deps": [
+    "libc6",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsnappy1v5_1.1.9-3_amd64.deb",
+   "sha256": "a2ec50d0f92864e7524c96352bc2c62221126ee1ef58f77af7bf369c60b6e98f",
+   "size": 25964,
+   "installed_size": 91136,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsndio7.0",
+   "version": "1.9.0-0.3+b2",
+   "description": "Small audio and MIDI framework from OpenBSD, runtime libraries",
+   "license": "",
+   "homepage": "https://www.sndio.org/",
+   "deps": [
+    "libasound2",
+    "libbsd0",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsndio7.0_1.9.0-0.3+b2_amd64.deb",
+   "sha256": "c4cc979126cc558549db25d42e2849a9d5dcdf7928e0ece69c38c374021a078b",
+   "size": 27312,
+   "installed_size": 90112,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsodium23",
+   "version": "1.0.18-1+deb12u1",
+   "description": "Network communication, cryptography and signaturing library",
+   "license": "",
+   "homepage": "https://www.libsodium.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsodium23_1.0.18-1+deb12u1_amd64.deb",
+   "sha256": "bceae6943d6e11fb53ec3f81d9630ec9ed03e51f89364902b05ebe402ae946ec",
+   "size": 162044,
+   "installed_size": 424960,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsoxr0",
+   "version": "0.1.3-4",
+   "description": "High quality 1D sample-rate conversion library",
+   "license": "",
+   "homepage": "http://sourceforge.net/projects/soxr/",
+   "deps": [
+    "libc6",
+    "libgomp1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsoxr0_0.1.3-4_amd64.deb",
+   "sha256": "73a9f1a290da86562333430517c3f44282f17fcbeefcc2ba7f8abbc2e686f6f3",
+   "size": 77812,
+   "installed_size": 234496,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libspeex1",
+   "version": "1.2.1-2",
+   "description": "The Speex codec runtime library",
+   "license": "",
+   "homepage": "https://www.speex.org/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libspeex1_1.2.1-2_amd64.deb",
+   "sha256": "0b6f64c60624c87dcd12e58fae56882355908822d077a718022aad888ade0e1e",
+   "size": 54564,
+   "installed_size": 128000,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsqlite3-0",
@@ -2397,7 +4251,68 @@
    "sha256": "a8d78b40e9b4e422224aeebfe0e4dfc243f6acf3532490b0c05480d4283d41e2",
    "size": 838808,
    "installed_size": 1722368,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsrt1.5-gnutls",
+   "version": "1.5.1-1+deb12u1",
+   "description": "Secure Reliable Transport UDP streaming library (GnuTLS flavour)",
+   "license": "",
+   "homepage": "https://github.com/Haivision/srt",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libgnutls30",
+    "libnettle8",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsrt1.5-gnutls_1.5.1-1+deb12u1_amd64.deb",
+   "sha256": "7a785222cd985b93b675252c0a3510cfcd920f0d531ab674fd4b4878d6646581",
+   "size": 313060,
+   "installed_size": 932864,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsrtp2-1",
+   "version": "2.5.0-3",
+   "description": "Secure RTP (SRTP) and UST Reference Implementations - shared library",
+   "license": "",
+   "homepage": "https://github.com/cisco/libsrtp",
+   "deps": [
+    "libc6",
+    "libnspr4",
+    "libnss3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsrtp2-1_2.5.0-3_amd64.deb",
+   "sha256": "348cea2b97d09705db3ccbd19d1bb159dab2ff35ed2a8aee9490c689898290ce",
+   "size": 43924,
+   "installed_size": 123904,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libssh-gcrypt-4",
+   "version": "0.10.6-0+deb12u2",
+   "description": "tiny C SSH library (gcrypt flavor)",
+   "license": "",
+   "homepage": "https://www.libssh.org/",
+   "deps": [
+    "libc6",
+    "libgcrypt20",
+    "libgpg-error0",
+    "libgssapi-krb5-2",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libssh-gcrypt-4_0.10.6-0+deb12u2_amd64.deb",
+   "sha256": "f2af148e039fed6620c8ba24328a434f9ecb1adb5b735c04d2d41a432ca3553d",
+   "size": 219948,
+   "installed_size": 652288,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libssl3",
@@ -2414,7 +4329,7 @@
    "sha256": "89be24b41bff568ee6e7caf5680a3d808e80315ed92e407056ce0fa7a5bda025",
    "size": 2036016,
    "installed_size": 6174720,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libstdc++6",
@@ -2433,7 +4348,61 @@
    "sha256": "5cd3171216d4ab0fc911cfe9c35509bf2dd8f47761c43b7f6a4296701551a24d",
    "size": 612604,
    "installed_size": 2750464,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libsvtav1enc1",
+   "version": "1.4.1+dfsg-1",
+   "description": "Scalable Video Technology for AV1 (libsvtav1enc shared library)",
+   "license": "",
+   "homepage": "https://gitlab.com/AOMediaCodec/SVT-AV1",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libsvtav1enc1_1.4.1+dfsg-1_amd64.deb",
+   "sha256": "e0f6e357f327e80f26438dcda9c9304c43e2f3343359c6a5075d0b10ddfdb05d",
+   "size": 2121284,
+   "installed_size": 6791168,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libswresample4",
+   "version": "7:5.1.9-0+deb12u1",
+   "description": "FFmpeg library for audio resampling, rematrixing etc. - runtime files",
+   "license": "",
+   "homepage": "https://ffmpeg.org/",
+   "deps": [
+    "libavutil57",
+    "libc6",
+    "libsoxr0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libswresample4_5.1.9-0+deb12u1_amd64.deb",
+   "sha256": "255406cbb7589751bc5b67efdbc21be01130b9551f5eff2dfe6db2f3e4888a6d",
+   "size": 106844,
+   "installed_size": 241664,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libswscale6",
+   "version": "7:5.1.9-0+deb12u1",
+   "description": "FFmpeg library for image scaling and various conversions - runtime files",
+   "license": "",
+   "homepage": "https://ffmpeg.org/",
+   "deps": [
+    "libavutil57",
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libswscale6_5.1.9-0+deb12u1_amd64.deb",
+   "sha256": "9ed5ebab74fc46bfb72f1e4d4cd7769cc98ac67a3320551958f8a507747df450",
+   "size": 224696,
+   "installed_size": 778240,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsystemd-shared",
@@ -2467,7 +4436,7 @@
    "sha256": "01458465c816b9eb63b92241869ddb46f332b8f498cf7a5979b84ec293cfdfda",
    "size": 1696184,
    "installed_size": 5478400,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libsystemd0",
@@ -2489,7 +4458,7 @@
    "sha256": "013c07514a9e4933b2d5c098018695a6aa42d085dbc483ce2c094a954c8a1b0a",
    "size": 332372,
    "installed_size": 930816,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libtasn1-6",
@@ -2506,7 +4475,7 @@
    "sha256": "2c27c613b69be248d09432839ea3d3382f6ee27fabaa65987aa2d884cd00afda",
    "size": 48596,
    "installed_size": 118784,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libtext-glob-perl",
@@ -2521,7 +4490,7 @@
    "sha256": "b0f1a40c5b26f4e4c83a4f8e1768fcf50ae9aac84b7f807ccb38123b50396f64",
    "size": 7676,
    "installed_size": 22528,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libthai-data",
@@ -2536,7 +4505,7 @@
    "sha256": "eed65a75269411e47d7b393d82bc30471da5c499e9f311abbfd8c54ca1a42d9e",
    "size": 176200,
    "installed_size": 641024,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libthai0",
@@ -2555,7 +4524,26 @@
    "sha256": "37cd66bef851ea0e4af807797ba3ad14d43226f7c4954c1d0a19478e11815bae",
    "size": 57468,
    "installed_size": 101376,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libtheora0",
+   "version": "1.1.1+dfsg.1-16.1+deb12u1",
+   "description": "Theora Video Compression Codec",
+   "license": "",
+   "homepage": "https://www.theora.org/",
+   "deps": [
+    "libc6",
+    "libcairo2",
+    "libogg0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libtheora0_1.1.1+dfsg.1-16.1+deb12u1_amd64.deb",
+   "sha256": "72739e29f804cbe10a207f546dfec44a340d31bb03f6a503ab6df0cdaf8a148e",
+   "size": 153548,
+   "installed_size": 663552,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libtiff6",
@@ -2580,7 +4568,7 @@
    "sha256": "255cd1d9f204355c366638ee21756234a8d43c03a3de18a5af6cdd94765b5053",
    "size": 316172,
    "installed_size": 733184,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libtinfo6",
@@ -2597,7 +4585,24 @@
    "sha256": "072d908f38f51090ca28ca5afa3b46b2957dc61fe35094c0b851426859a49a51",
    "size": 331352,
    "installed_size": 553984,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libtwolame0",
+   "version": "0.4.0-2",
+   "description": "MPEG Audio Layer 2 encoding library",
+   "license": "",
+   "homepage": "http://www.twolame.org",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libtwolame0_0.4.0-2_amd64.deb",
+   "sha256": "279802de79d682a671cdb11295abb5cd2d21da5bee6ceefa44324c70a29365b1",
+   "size": 51080,
+   "installed_size": 150528,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libudev1",
@@ -2614,7 +4619,24 @@
    "sha256": "6f7e08f11c4809d2e5998c775f7b423ab5ec2ce0309494b4a2615037052245e2",
    "size": 108880,
    "installed_size": 245760,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libudfread0",
+   "version": "1.1.2-1",
+   "description": "UDF reader library",
+   "license": "",
+   "homepage": "https://www.videolan.org/developers/libudfread.html",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libudfread0_1.1.2-1_amd64.deb",
+   "sha256": "93169ca95de3825c5ebda01db79f800fa1c5c4820ac5c760e1234e590d7b4c7b",
+   "size": 16476,
+   "installed_size": 57344,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libunistring2",
@@ -2631,7 +4653,7 @@
    "sha256": "d466bbfe011d764d793c1d9d777cad9c7cf65b938e11598f27408171ad95a951",
    "size": 436708,
    "installed_size": 1850368,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libuuid1",
@@ -2648,7 +4670,194 @@
    "sha256": "5fff398321da62d28a842bcbabd193d72ae21724962c029dc32b1dc6b2deaeaf",
    "size": 28784,
    "installed_size": 80896,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libva-drm2",
+   "version": "2.17.0-1",
+   "description": "Video Acceleration (VA) API for Linux -- DRM runtime",
+   "license": "",
+   "homepage": "https://01.org/linuxmedia/vaapi",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libva2"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libva-drm2_2.17.0-1_amd64.deb",
+   "sha256": "dc0a0cadbdc001df3d89855d8054aacb332a731f98c7741ce580492b0e01e605",
+   "size": 16352,
+   "installed_size": 44032,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libva-x11-2",
+   "version": "2.17.0-1",
+   "description": "Video Acceleration (VA) API for Linux -- X11 runtime",
+   "license": "",
+   "homepage": "https://01.org/linuxmedia/vaapi",
+   "deps": [
+    "libc6",
+    "libdrm2",
+    "libva2",
+    "libx11-6",
+    "libx11-xcb1",
+    "libxcb-dri3-0",
+    "libxcb1",
+    "libxext6",
+    "libxfixes3"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libva-x11-2_2.17.0-1_amd64.deb",
+   "sha256": "95db1ecd8c2d1c3f99a750f1b2d9ba1959b7cd9cbd7eabfc1b8a86a095b379a6",
+   "size": 21036,
+   "installed_size": 56320,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libva2",
+   "version": "2.17.0-1",
+   "description": "Video Acceleration (VA) API for Linux -- runtime",
+   "license": "",
+   "homepage": "https://01.org/linuxmedia/vaapi",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libva2_2.17.0-1_amd64.deb",
+   "sha256": "e6acf0c4071c01df7c35d18a97768047294dc43d252caae9ccddc1e507456695",
+   "size": 69192,
+   "installed_size": 222208,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libvdpau1",
+   "version": "1.5-2",
+   "description": "Video Decode and Presentation API for Unix (libraries)",
+   "license": "",
+   "homepage": "https://www.freedesktop.org/wiki/Software/VDPAU/",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libvdpau1_1.5-2_amd64.deb",
+   "sha256": "517039c1bfbfc453c4b952a068a1b02b77bf46bbf7af882ad877a581bf2c0e21",
+   "size": 26144,
+   "installed_size": 108544,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libvorbis0a",
+   "version": "1.3.7-1",
+   "description": "decoder library for Vorbis General Audio Compression Codec",
+   "license": "",
+   "homepage": "https://www.xiph.org/vorbis/",
+   "deps": [
+    "libc6",
+    "libogg0"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libvorbis0a_1.3.7-1_amd64.deb",
+   "sha256": "01c14f9d1109650077a4c5c337c285476a6932d4d448f5a190c2b845724dbf21",
+   "size": 93028,
+   "installed_size": 209920,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libvorbisenc2",
+   "version": "1.3.7-1",
+   "description": "encoder library for Vorbis General Audio Compression Codec",
+   "license": "",
+   "homepage": "https://www.xiph.org/vorbis/",
+   "deps": [
+    "libc6",
+    "libvorbis0a"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libvorbisenc2_1.3.7-1_amd64.deb",
+   "sha256": "75dd4d6f904c7db82f5112e60d8efea9e81dfedf94e970c5da7af2b3d81643c0",
+   "size": 80568,
+   "installed_size": 719872,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libvorbisfile3",
+   "version": "1.3.7-1",
+   "description": "high-level API for Vorbis General Audio Compression Codec",
+   "license": "",
+   "homepage": "https://www.xiph.org/vorbis/",
+   "deps": [
+    "libc6",
+    "libogg0",
+    "libvorbis0a"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libvorbisfile3_1.3.7-1_amd64.deb",
+   "sha256": "68f84034ae1c9fa0ab6a45f5b6c406a50faae4421f0d78874260aefa2df68efc",
+   "size": 26084,
+   "installed_size": 64512,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libvpx7",
+   "version": "1.12.0-1+deb12u5",
+   "description": "VP8 and VP9 video codec (shared library)",
+   "license": "",
+   "homepage": "https://www.webmproject.org",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libvpx7_1.12.0-1+deb12u5_amd64.deb",
+   "sha256": "7d8fada67fc9e11a08304499fe5beb7f809194d284202b9c9f1a0b8e54b90db4",
+   "size": 1003444,
+   "installed_size": 3134464,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libwacom-common",
+   "version": "2.6.0-1",
+   "description": "Wacom model feature query library (common files)",
+   "license": "",
+   "homepage": "",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libwacom-common_2.6.0-1_all.deb",
+   "sha256": "f8f59c10cdcf775bbe9a3fb96eb373822139f8e91660d8ee2deb432c5ae2337c",
+   "size": 58372,
+   "installed_size": 882688,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libwacom9",
+   "version": "2.6.0-1",
+   "description": "Wacom model feature query library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libglib2.0-0",
+    "libgudev-1.0-0",
+    "libwacom-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwacom9_2.6.0-1_amd64.deb",
+   "sha256": "397cd75859da00f367db1fbb2f3d62746d852a1f8dd626ede49dea5e2ee4d916",
+   "size": 21492,
+   "installed_size": 71680,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libwayland-client0",
@@ -2666,7 +4875,7 @@
    "sha256": "1f002d028b8b79eec9847c636d8886d10dfe8c884cc2bebe18086b1391c5a28d",
    "size": 28320,
    "installed_size": 91136,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libwayland-cursor0",
@@ -2684,7 +4893,7 @@
    "sha256": "0b684467ec795024fcaae99ea4384959cc4052b2da5adec38c9b76dfed9bcf41",
    "size": 14376,
    "installed_size": 55296,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libwayland-egl1",
@@ -2701,7 +4910,7 @@
    "sha256": "cb4225f0e15e00a3570d4cbc288c87ff477d73e741c3f1c5a6d47cf350d45378",
    "size": 8640,
    "installed_size": 33792,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libwayland-server0",
@@ -2719,7 +4928,7 @@
    "sha256": "df0396221d7b794496a687ec61fae82b6465648bc0ab6501ba0a5ed7f56eb8d6",
    "size": 35876,
    "installed_size": 113664,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libwebp7",
@@ -2736,7 +4945,43 @@
    "sha256": "7259b7ce46444694ce536360ad53acb68eb3b47a7ff81d7b1b8a3939b2ac9918",
    "size": 285512,
    "installed_size": 557056,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libwebpdemux2",
+   "version": "1.2.4-0.2+deb12u1",
+   "description": "Lossy compression of digital photographic images.",
+   "license": "",
+   "homepage": "https://developers.google.com/speed/webp/",
+   "deps": [
+    "libc6",
+    "libwebp7"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwebpdemux2_1.2.4-0.2+deb12u1_amd64.deb",
+   "sha256": "7d622d3cd1413fe55a2d3baaa32e0dfeba88bc511b1058dbe64562e2a9d7c176",
+   "size": 99408,
+   "installed_size": 122880,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libwebpmux3",
+   "version": "1.2.4-0.2+deb12u1",
+   "description": "Lossy compression of digital photographic images",
+   "license": "",
+   "homepage": "https://developers.google.com/speed/webp/",
+   "deps": [
+    "libc6",
+    "libwebp7"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libwebpmux3_1.2.4-0.2+deb12u1_amd64.deb",
+   "sha256": "cc7d04d56ff8112ef5ed94050b0a440a9b4cea9d1d6f97e2a4016c8cc042c2f1",
+   "size": 109492,
+   "installed_size": 147456,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libx11-6",
@@ -2755,7 +5000,7 @@
    "sha256": "d88c973e79fd9b65838d77624142952757e47a6eb1a58602acf0911cf35989f4",
    "size": 759544,
    "installed_size": 1599488,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libx11-data",
@@ -2770,7 +5015,60 @@
    "sha256": "987a848aeb1c358e4186368871b0526f10bb14c6b53214ab3bf8b69abb830191",
    "size": 291884,
    "installed_size": 1614848,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libx11-xcb1",
+   "version": "2:1.8.4-2+deb12u2",
+   "description": "Xlib/XCB interface library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libx11-6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libx11-xcb1_1.8.4-2+deb12u2_amd64.deb",
+   "sha256": "f5da45e1d881a793250a96613f28c471a248877f1a0f18a5c90e2a620a76c898",
+   "size": 192356,
+   "installed_size": 258048,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libx264-164",
+   "version": "2:0.164.3095+gitbaee400-3",
+   "description": "x264 video coding library",
+   "license": "",
+   "homepage": "https://www.videolan.org/developers/x264.html",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libx264-164_0.164.3095+gitbaee400-3_amd64.deb",
+   "sha256": "2b9f0d79ab1dccc10c24963c1debaf5a37d839bdba369ac358deefd1a7d56a12",
+   "size": 547148,
+   "installed_size": 1922048,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libx265-199",
+   "version": "3.5-2+b1",
+   "description": "H.265/HEVC video stream encoder (shared library)",
+   "license": "",
+   "homepage": "http://x265.org",
+   "deps": [
+    "libc6",
+    "libnuma1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libx265-199_3.5-2+b1_amd64.deb",
+   "sha256": "9cd87d1b0c56f34f51bcbe8bdb55ebb45dd08ce6c0c6ff2dc77378bac3f64cc0",
+   "size": 1150056,
+   "installed_size": 16591872,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxau6",
@@ -2787,7 +5085,190 @@
    "sha256": "679db1c4579ec7c61079adeaae8528adeb2e4bf5465baa6c56233b995d714750",
    "size": 19720,
    "installed_size": 43008,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-dri2-0",
+   "version": "1.15-1",
+   "description": "X C Binding, dri2 extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-dri2-0_1.15-1_amd64.deb",
+   "sha256": "ef4959aa9e09a0d38d1de432e747585129d5d2dc1d84c8b6b3d2ffc3708b5805",
+   "size": 106792,
+   "installed_size": 139264,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-dri3-0",
+   "version": "1.15-1",
+   "description": "X C Binding, dri3 extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-dri3-0_1.15-1_amd64.deb",
+   "sha256": "02699b144b9467de8636d27a76984b8f4e7b66e2d25d96df2b9677be86ee9a29",
+   "size": 106676,
+   "installed_size": 139264,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-glx0",
+   "version": "1.15-1",
+   "description": "X C Binding, glx extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-glx0_1.15-1_amd64.deb",
+   "sha256": "1bce55fc292d93fa5f7fa50f84cef99ec29be70d0ffe98e86b8008e59f4a34fa",
+   "size": 122392,
+   "installed_size": 249856,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-icccm4",
+   "version": "0.4.1-1.1",
+   "description": "utility libraries for X C Binding -- icccm",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-icccm4_0.4.1-1.1_amd64.deb",
+   "sha256": "f323194cb04cd4e5ae064fafec39db6dcf8a431cbd65a0bc53fa6c359862d8ff",
+   "size": 27436,
+   "installed_size": 59392,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-image0",
+   "version": "0.4.0-2",
+   "description": "utility libraries for X C Binding -- image",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb-shm0",
+    "libxcb-util1",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-image0_0.4.0-2_amd64.deb",
+   "sha256": "a475522faef7672ca065fdcd2594bc755bfcc4d819909f9d944e8c002b4460d1",
+   "size": 22944,
+   "installed_size": 48128,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-keysyms1",
+   "version": "0.4.0-1+b2",
+   "description": "utility libraries for X C Binding -- keysyms",
+   "license": "",
+   "homepage": "http://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-keysyms1_0.4.0-1+b2_amd64.deb",
+   "sha256": "aed1436db9a3e63b10d00c4ed16248b5c82b5dd2963a83a761f406af65eb4b49",
+   "size": 16416,
+   "installed_size": 39936,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-present0",
+   "version": "1.15-1",
+   "description": "X C Binding, present extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-present0_1.15-1_amd64.deb",
+   "sha256": "89383e627a4d17b9390d609b2459481bfd2029566367b43068586769e418b6e5",
+   "size": 105420,
+   "installed_size": 129024,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-randr0",
+   "version": "1.15-1",
+   "description": "X C Binding, randr extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-randr0_1.15-1_amd64.deb",
+   "sha256": "f86e3d8ff8622871008833e9d064919b7a6237399c903c59fc330ff00f199ff5",
+   "size": 116680,
+   "installed_size": 196608,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-record0",
+   "version": "1.15-1",
+   "description": "X C Binding, record extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-record0_1.15-1_amd64.deb",
+   "sha256": "fc6d754f1de5c96846f34de849a4dc153b7c4af83e2a2cc40c042819182d3462",
+   "size": 106916,
+   "installed_size": 135168,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-render-util0",
+   "version": "0.3.9-1+b1",
+   "description": "utility libraries for X C Binding -- render-util",
+   "license": "",
+   "homepage": "http://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb-render0",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-render-util0_0.3.9-1+b1_amd64.deb",
+   "sha256": "be4b38a63e65c84e2f1322f044d05a9baa677e0f3dc68b742a0a109a3ff40ae9",
+   "size": 18252,
+   "installed_size": 45056,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxcb-render0",
@@ -2805,7 +5286,43 @@
    "sha256": "29c32cc76be9393f409378be79a0f534b9f07dea06ae52fa80a7f27e298de239",
    "size": 115012,
    "installed_size": 180224,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-screensaver0",
+   "version": "1.15-1",
+   "description": "X C Binding, screensaver extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-screensaver0_1.15-1_amd64.deb",
+   "sha256": "99dc5f8abb4b90d369cc1b2c7607187f9e8b1b632cb73b1d15decf0273c5a3bb",
+   "size": 106032,
+   "installed_size": 130048,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-shape0",
+   "version": "1.15-1",
+   "description": "X C Binding, shape extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-shape0_1.15-1_amd64.deb",
+   "sha256": "e0d0e31db4d72e2f7246d40edc6bd75e0249ae3138839e60a268db7da40a6ae2",
+   "size": 105768,
+   "installed_size": 130048,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxcb-shm0",
@@ -2823,7 +5340,115 @@
    "sha256": "c1afcef29dc78b95c475159b181b28b1dedaf1d5aa06efd2fa6d90c73bfbe0e5",
    "size": 105472,
    "installed_size": 129024,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-sync1",
+   "version": "1.15-1",
+   "description": "X C Binding, sync extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-sync1_1.15-1_amd64.deb",
+   "sha256": "3366ce715220d38dd0148b78a8e738137bade25ef7eec0698850c6f66800844f",
+   "size": 108692,
+   "installed_size": 148480,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-util1",
+   "version": "0.4.0-1+b1",
+   "description": "utility libraries for X C Binding -- atom, aux and event",
+   "license": "",
+   "homepage": "http://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-util1_0.4.0-1+b1_amd64.deb",
+   "sha256": "4c48af51fb2ac1be0490067e7450aeda27bf6c6c395165de02199eee4835336f",
+   "size": 23248,
+   "installed_size": 58368,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-xfixes0",
+   "version": "1.15-1",
+   "description": "X C Binding, xfixes extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-xfixes0_1.15-1_amd64.deb",
+   "sha256": "d744a7ebad2cbcf301c96cd6a1ab3ee856e436fc7be5cff5b7c28ac2ac181a64",
+   "size": 109368,
+   "installed_size": 154624,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-xinerama0",
+   "version": "1.15-1",
+   "description": "X C Binding, xinerama extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-xinerama0_1.15-1_amd64.deb",
+   "sha256": "2932300acae42ebc22e026e1abf0c8926621dae5a6b7a3eb400aace88b4ec22c",
+   "size": 105100,
+   "installed_size": 130048,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-xinput0",
+   "version": "1.15-1",
+   "description": "X C Binding, xinput extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-xinput0_1.15-1_amd64.deb",
+   "sha256": "d11dc7b5f9d2addadea1e76d60551d95cc4c73a7eac7cbc0d62360e4e188c0ea",
+   "size": 130228,
+   "installed_size": 254976,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxcb-xkb1",
+   "version": "1.15-1",
+   "description": "X C Binding, XKEYBOARD extension",
+   "license": "",
+   "homepage": "https://xcb.freedesktop.org",
+   "deps": [
+    "libc6",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxcb-xkb1_1.15-1_amd64.deb",
+   "sha256": "1dc2f0de8576b1855b451a7e2a7163ecb5be08f8384f49655414714b48f6fa1b",
+   "size": 128928,
+   "installed_size": 248832,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxcb1",
@@ -2842,7 +5467,7 @@
    "sha256": "fdc61332a3892168f3cc9cfa1fe9cf11a91dc3e0acacbc47cbc50ebaa234cc71",
    "size": 144052,
    "installed_size": 303104,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxcomposite1",
@@ -2860,7 +5485,7 @@
    "sha256": "4c26ebf519d2ebc22fc1416dee45e12c4c4ef68aa9b2ed890356830df42b652a",
    "size": 16608,
    "installed_size": 40960,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxcursor1",
@@ -2880,7 +5505,7 @@
    "sha256": "49e167048661be4c614fff81429e9eaef38e54ef1d2150a5d2a8c53919217529",
    "size": 40904,
    "installed_size": 84992,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxdamage1",
@@ -2898,7 +5523,7 @@
    "sha256": "fcdf7e4c29b307ba8711c864e1e646d76315a8f55121198143653e56592fa8a7",
    "size": 15144,
    "installed_size": 38912,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxdmcp6",
@@ -2916,7 +5541,7 @@
    "sha256": "ecb8536f5fb34543b55bb9dc5f5b14c9dbb4150a7bddb3f2287b7cab6e9d25ef",
    "size": 26344,
    "installed_size": 54272,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxext6",
@@ -2934,7 +5559,7 @@
    "sha256": "504b7be9d7df4f6f4519e8dd4d6f9d03a9fb911a78530fa23a692fba3058cba6",
    "size": 52932,
    "installed_size": 135168,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxfixes3",
@@ -2952,7 +5577,7 @@
    "sha256": "1cd616396ff2ecae77e6e8b5b7695d414f0146de2d147837a2a02165f99e1a2c",
    "size": 22684,
    "installed_size": 58368,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxi6",
@@ -2971,7 +5596,7 @@
    "sha256": "6c2fb5f241b311788990122c6e693915867cd8ed9d6da2e3524aec7ed3cdb4c0",
    "size": 84208,
    "installed_size": 152576,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxinerama1",
@@ -2990,7 +5615,27 @@
    "sha256": "8dde8f74d2fc001f306fb1295a86850145e93191d35c983c7f52eb21b0a7f8cb",
    "size": 17820,
    "installed_size": 48128,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxkbcommon-x11-0",
+   "version": "1.5.0-1",
+   "description": "library to create keymaps with the XKB X11 protocol",
+   "license": "",
+   "homepage": "http://www.xkbcommon.org/",
+   "deps": [
+    "libxkbcommon0",
+    "libc6",
+    "libxcb-xkb1",
+    "libxcb1"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxkbcommon-x11-0_1.5.0-1_amd64.deb",
+   "sha256": "9b34d760f0ca0f125419a6becc6492c489f0371953ef42caad3401199a497ff5",
+   "size": 15576,
+   "installed_size": 58368,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxkbcommon0",
@@ -3008,7 +5653,7 @@
    "sha256": "e3fe045b9a33a101de1c5a912a4a10928db055c3f68930f47eccbb44d7c7d54e",
    "size": 106108,
    "installed_size": 303104,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxml2",
@@ -3028,7 +5673,7 @@
    "sha256": "4460e39dda10a815881374217cde08474747cfa018358cd8612c14b390eff53b",
    "size": 688760,
    "installed_size": 1911808,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxrandr2",
@@ -3048,7 +5693,7 @@
    "sha256": "e2e10b672085ddf1d294cd689ed21bde5899325fd13626c2614b7d7b2d49a808",
    "size": 39240,
    "installed_size": 90112,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libxrender1",
@@ -3066,7 +5711,140 @@
    "sha256": "b2a6d160578f359220101947c8d67059b44704a251e688de1d0b744fefedfd1a",
    "size": 33228,
    "installed_size": 79872,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxshmfence1",
+   "version": "1.3-1",
+   "description": "X shared memory fences - shared library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxshmfence1_1.3-1_amd64.deb",
+   "sha256": "1a38142e40e3d32dc4f9a326bf5617363b7d9b4bb762fdcdd262f2192092024d",
+   "size": 8820,
+   "installed_size": 26624,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxtst6",
+   "version": "2:1.2.3-1.1",
+   "description": "X11 Testing -- Record extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6",
+    "x11-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxtst6_1.2.3-1.1_amd64.deb",
+   "sha256": "be67f1efe7cd3dbe9dc0d717e0a8c0959cc663950aa15a42636ab90b134f9cb5",
+   "size": 27984,
+   "installed_size": 62464,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxvidcore4",
+   "version": "2:1.3.7-1",
+   "description": "Open source MPEG-4 video codec (library)",
+   "license": "",
+   "homepage": "https://labs.xvid.com/source/",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxvidcore4_1.3.7-1_amd64.deb",
+   "sha256": "048e4d456992c7f593564e8ad1cecfc4be0464bfb1fc7a8908a643d59d9fbe81",
+   "size": 242136,
+   "installed_size": 751616,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxxf86vm1",
+   "version": "1:1.1.4-1+b2",
+   "description": "X11 XFree86 video mode extension library",
+   "license": "",
+   "homepage": "",
+   "deps": [
+    "libc6",
+    "libx11-6",
+    "libxext6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxxf86vm1_1.1.4-1+b2_amd64.deb",
+   "sha256": "6f4ca916aaec26d7000fa7f58de3f71119309ab7590ce1f517abfe1825a676c7",
+   "size": 20820,
+   "installed_size": 51200,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libxxhash0",
+   "version": "0.8.1-1",
+   "description": "shared library for xxhash",
+   "license": "",
+   "homepage": "https://cyan4973.github.io/xxHash",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libxxhash0_0.8.1-1_amd64.deb",
+   "sha256": "6c19a5d18c8350744581fbd25d5d29e2b7101053e25aafa4e1ffcc2b505b2f1c",
+   "size": 27584,
+   "installed_size": 101376,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libz3-4",
+   "version": "4.8.12-3.1",
+   "description": "theorem prover from Microsoft Research - runtime libraries",
+   "license": "",
+   "homepage": "https://github.com/Z3Prover/z3",
+   "deps": [
+    "libc6",
+    "libgcc-s1",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libz3-4_4.8.12-3.1_amd64.deb",
+   "sha256": "6221ca25ad5abcfbe1965801029d85a88b4775320384b4b716de8fab7a4d2f7a",
+   "size": 7216172,
+   "installed_size": 23313408,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libzmq5",
+   "version": "4.3.4-6",
+   "description": "lightweight messaging kernel (shared library)",
+   "license": "",
+   "homepage": "https://www.zeromq.org/",
+   "deps": [
+    "libbsd0",
+    "libc6",
+    "libgcc-s1",
+    "libgssapi-krb5-2",
+    "libnorm1",
+    "libpgm-5.3-0",
+    "libsodium23",
+    "libstdc++6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libzmq5_4.3.4-6_amd64.deb",
+   "sha256": "45eaea8e29e6ff981943bc88906b1c6e29643b4a781eed9bc139f5af633c97c6",
+   "size": 273448,
+   "installed_size": 827392,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "libzstd1",
@@ -3083,7 +5861,58 @@
    "sha256": "6315b5ac38b724a710fb96bf1042019398cb656718b1522279a5185ed39318fa",
    "size": 290036,
    "installed_size": 803840,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libzvbi-common",
+   "version": "0.2.41-1+deb12u1",
+   "description": "Vertical Blanking Interval decoder (VBI) - common files",
+   "license": "",
+   "homepage": "https://github.com/zapping-vbi/zvbi",
+   "deps": [],
+   "build_deps": [],
+   "arch": "all",
+   "file": "libzvbi-common_0.2.41-1+deb12u1_all.deb",
+   "sha256": "2115a125736144bc46bec2c185a24e4fd67b392f1b069950f4f45f11633de0e1",
+   "size": 69944,
+   "installed_size": 195584,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "libzvbi0",
+   "version": "0.2.41-1+deb12u1",
+   "description": "Vertical Blanking Interval decoder (VBI) - runtime files",
+   "license": "",
+   "homepage": "https://github.com/zapping-vbi/zvbi",
+   "deps": [
+    "libc6",
+    "libpng16-16",
+    "libzvbi-common"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "libzvbi0_0.2.41-1+deb12u1_amd64.deb",
+   "sha256": "b16e63009c643c71136fefa227c77e6d88609a2ac273091b43ce363d1dedf492",
+   "size": 274608,
+   "installed_size": 744448,
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "lsb-base",
+   "version": "11.6",
+   "description": "transitional package for Linux Standard Base init script functionality",
+   "license": "",
+   "homepage": "https://wiki.linuxfoundation.org/lsb/start",
+   "deps": [
+    "sysvinit-utils"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "lsb-base_11.6_all.deb",
+   "sha256": "f8bedd167280e76636df3a1bc023cd2906d458916c1af4c1d7912c5b971fc642",
+   "size": 4584,
+   "installed_size": 12288,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "mount",
@@ -3104,7 +5933,24 @@
    "sha256": "e59c41b9d3a83ffd7355f18edfd2eaf5f408500e6a77eb04d4947219d6bbbeb9",
    "size": 63632,
    "installed_size": 402432,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "ocl-icd-libopencl1",
+   "version": "2.3.1-1",
+   "description": "Generic OpenCL ICD Loader",
+   "license": "",
+   "homepage": "https://github.com/OCL-dev/ocl-icd",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "ocl-icd-libopencl1_2.3.1-1_amd64.deb",
+   "sha256": "ddd8509c0430545173752bed272c7f44f8b5f7d125265b20456207aaefbb52c8",
+   "size": 43016,
+   "installed_size": 143360,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "passwd",
@@ -3127,7 +5973,7 @@
    "sha256": "7844f6502c62870a1228afec09c17d0b4a7229a0878c83a56b3004658faa1aef",
    "size": 956096,
    "installed_size": 2894848,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "perl",
@@ -3147,7 +5993,7 @@
    "sha256": "afa50ec7d9b1a407cd0187dae033644ef13578d4f3792435e0c41b962ffec0c4",
    "size": 238900,
    "installed_size": 686080,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "perl-base",
@@ -3166,7 +6012,7 @@
    "sha256": "8ec874926e211807cde71e1b0a2311d2534ab3539dffcb2c8553633f542efc1a",
    "size": 1607712,
    "installed_size": 7822336,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "perl-modules-5.36",
@@ -3184,7 +6030,7 @@
    "sha256": "3d237ccb1ea32727b6573d43c67d78337aa928a81148d36cef54b369a07c240a",
    "size": 2815332,
    "installed_size": 18244608,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "procps",
@@ -3205,7 +6051,33 @@
    "sha256": "5a9f71089ee51e3e84d324a87e5953d571684b7e286a54effa71e6f3a19a626c",
    "size": 595280,
    "installed_size": 2141184,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "qt5-image-formats-plugins",
+   "version": "5.15.8-2",
+   "description": "Qt 5 Image Formats module",
+   "license": "",
+   "homepage": "https://doc.qt.io/qt-5/qtimageformats-index.html",
+   "deps": [
+    "libc6",
+    "libmng1",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libstdc++6",
+    "libtiff6",
+    "libwebp7",
+    "libwebpdemux2",
+    "libwebpmux3",
+    "dpkg"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "qt5-image-formats-plugins_5.15.8-2_amd64.deb",
+   "sha256": "1940a41c73da980acd48d74e859b2ac46cb3b776872336b114e409865dac77c8",
+   "size": 45336,
+   "installed_size": 214016,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "shared-mime-info",
@@ -3224,7 +6096,7 @@
    "sha256": "dd026add873483566faefebbd8779a1e5e14ab2e44682ebfe238c3828a2b936b",
    "size": 728896,
    "installed_size": 5150720,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "systemd",
@@ -3260,7 +6132,7 @@
    "sha256": "286f879c537bfba92e59d580c075ad20ab49020244c79634656850a306dd462b",
    "size": 3043940,
    "installed_size": 9900032,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "systemd-sysv",
@@ -3277,7 +6149,24 @@
    "sha256": "3d0bc4027ac9a8cd50c88f8a6cd1cb21bede13bb72fc5d83705a2fcf86ccddd3",
    "size": 42812,
    "installed_size": 75776,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "sysvinit-utils",
+   "version": "3.06-4",
+   "description": "System-V-like utilities",
+   "license": "",
+   "homepage": "https://github.com/slicer69/sysvinit",
+   "deps": [
+    "libc6"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "sysvinit-utils_3.06-4_amd64.deb",
+   "sha256": "a42ff3bc53428c462e2c99f4a34291be40c087134650e688aea305b0a7cb507e",
+   "size": 30960,
+   "installed_size": 102400,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "tar",
@@ -3296,7 +6185,70 @@
    "sha256": "bc8ab4b81d1659885abf9eebce855ed481b05415008194275fe953146af180de",
    "size": 640000,
    "installed_size": 3219456,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "telegram-desktop",
+   "version": "4.6.5+ds-2+b1",
+   "description": "fast and secure messaging application",
+   "license": "",
+   "homepage": "https://desktop.telegram.org",
+   "deps": [
+    "qt5-image-formats-plugins",
+    "libabsl20220623",
+    "libavcodec59",
+    "libavformat59",
+    "libavutil57",
+    "libc6",
+    "libgcc-s1",
+    "libglib2.0-0",
+    "libglibmm-2.68-1",
+    "libhunspell-1.7-0",
+    "libjpeg62-turbo",
+    "libkf5coreaddons5",
+    "liblz4-1",
+    "libminizip1",
+    "libopenal1",
+    "libopus0",
+    "libqrcodegencpp1",
+    "libqt5core5a",
+    "libqt5gui5",
+    "libqt5network5",
+    "libqt5qml5",
+    "libqt5quickwidgets5",
+    "libqt5svg5",
+    "libqt5waylandcompositor5",
+    "libqt5widgets5",
+    "librlottie0-1",
+    "libsigc++-3.0-0",
+    "libsrtp2-1",
+    "libssl3",
+    "libstdc++6",
+    "libswresample4",
+    "libswscale6",
+    "libvpx7",
+    "libwayland-client0",
+    "libx11-6",
+    "libxcb-keysyms1",
+    "libxcb-record0",
+    "libxcb-screensaver0",
+    "libxcb1",
+    "libxcomposite1",
+    "libxdamage1",
+    "libxext6",
+    "libxfixes3",
+    "libxrandr2",
+    "libxtst6",
+    "libxxhash0",
+    "zlib1g"
+   ],
+   "build_deps": [],
+   "arch": "amd64",
+   "file": "telegram-desktop_4.6.5+ds-2+b1_amd64.deb",
+   "sha256": "bb1f1cfe803bc0254aed08832d4fc593043b00f09ad8b560a47d0b0d3b7b3c57",
+   "size": 29707264,
+   "installed_size": 85862400,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "usrmerge",
@@ -3314,7 +6266,24 @@
    "sha256": "8a25318213244f075b56363408c87a519ed8cef24b270c3d045ef35d695de13a",
    "size": 13336,
    "installed_size": 40960,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
+  },
+  {
+   "name": "x11-common",
+   "version": "1:7.7+23",
+   "description": "X Window System (X.Org) infrastructure",
+   "license": "",
+   "homepage": "https://www.x.org/",
+   "deps": [
+    "lsb-base"
+   ],
+   "build_deps": [],
+   "arch": "all",
+   "file": "x11-common_7.7+23_all.deb",
+   "sha256": "fc97c2f4495eb33a77501c7960928c0d2001e5c4b2aa438f1713e2082c23bacd",
+   "size": 252272,
+   "installed_size": 315392,
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "xkb-data",
@@ -3329,7 +6298,7 @@
    "sha256": "28a79c61b785f403da93af58c39aed13c022032935e3e54362c6707169cfe982",
    "size": 763516,
    "installed_size": 7091200,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   },
   {
    "name": "zlib1g",
@@ -3346,7 +6315,7 @@
    "sha256": "d7dd1d1411fedf27f5e27650a6eff20ef294077b568f4c8c5e51466dc7c08ce4",
    "size": 86684,
    "installed_size": 172032,
-   "date": "2026-10-17T21:30:49Z"
+   "date": "2026-10-18T13:19:44Z"
   }
  ]
 }
